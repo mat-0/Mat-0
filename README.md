@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Mat
 
-<!--
-**MatBenfield/MatBenfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/gh-header-image-cropped.jpg)
 
-Here are some ideas to get you started:
+## Find me around the web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/mat-benfield/)
+
+- [MeetUp](https://www.meetup.com/members/197754442/)
+
+- [Strava](https://www.strava.com/athletes/24249743)
+
+- [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
+
+- [GitHub (work)](https://github.com/MatBenfieldHESA)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=MatBenfield&show_icons=true)
