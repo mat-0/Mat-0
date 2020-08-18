@@ -12,6 +12,8 @@ I value open, authentic relationships. I promise to be honest and empathetic wit
 
 I can often be seen as short or to-the-point but I'm a big softie at heart and always care more about people than I do about deadlines.
 
+underlying principle: Hands-off as much as possible and hands-on as much as necessary.
+
 ## My expectations of colleagues who report to me
 
 Please reach out and tell me if anything, at all, feels off.
