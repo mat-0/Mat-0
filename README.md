@@ -12,6 +12,4 @@ You can see my [curriculum vitae here](/curriculum-vitae.md) and my [operating m
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
 - [GitHub (work)](https://github.com/MatBenfieldHESA)
 
-
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MatBenfield&show_icons=true)
