@@ -86,6 +86,7 @@ Development and maintenance of data collection system (c#, MVC, Oracle, azure bl
 - Redesigned lookup service micro site
 
 #### WEB DEVELOPER (May 2011 – July 2015)
+
 Create and maintain internal and externally facing websites and business systems, provide guidance and direction to software developers around user interface.
 
 ##### Key responsibilities
@@ -102,6 +103,7 @@ Create and maintain internal and externally facing websites and business systems
 - Created web based mobile application displaying provider data, also embedded on main website
 
 #### DATA ANALYST (March 2006 – May 2011)
+
 To gather requirements and generate specification documents for the development team, to produce reports and quality assure incoming data, to work with publications team to create, check and publish statistical releases.
 
 ##### Key responsibilities
