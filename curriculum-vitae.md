@@ -4,9 +4,9 @@
 
 Self-taught, experienced and engaged Head of Software Development with a passion for agile methodologies and delivering value. A leader and catalyst for change. Attends local .Net Meetups and Geek nights to further extend knowledge and be a member of the development community.
 
-Keen non-elite runner, committed to 1000 miles to raise £1000 for Acorns Hospice in 2019, including 3 half marathons, a 10 miler and two 10kms. Runs and volunteers at parkrun.
+Keen non-elite runner, achieving 1200 miles to raise over £1000 for Acorns Hospice in 2019, including 3 half marathons, a 10 miler and two 10kms races. Member of local running club and volunteers at parkrun.
 
-From May 2010 through to May 2018, created and managed football statistics based website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to over 170,000 followers with peak visibility to over 5 million users per week, and visitors from over 150 countries on the website.
+From May 2010 through to May 2018, created and managed football statistics based website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak over 175,000 followers with visibility to over 5 million users per week, and visitors from over 150 countries on the website.
 
 ## Core Skills
 
@@ -14,7 +14,7 @@ From May 2010 through to May 2018, created and managed football statistics based
 - Stack: C# .Net, MVC, nuget, Azure, Oracle
 - Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Sass
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, and Selenium Web driver
-- Source Control: Azure DevOps, Git, Github, subversion, CVS
+- Source Control: TFS, Azure DevOps, Git, Github, subversion, CVS
 - Database: MySQL, Oracle, SQL Server
 - Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress.
 - OS : Mac, Windows
@@ -24,11 +24,11 @@ From May 2010 through to May 2018, created and managed football statistics based
 ### Higher Education Statistics Agency
 
 > Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis.
-In addition to current role I have also been acting as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal from time-to-time.
+In addition to current role acting as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal from time-to-time.
 
 #### HEAD OF SOFTWARE DEVELOPMENT (October 2019 - current)
 
-> co-leading a team of 30 lead developers, developers and testers, expanding to 40 including test manager, lead developers, scrum master, developers and testers. heading up the Data Futures project from a technical perspective in conjunction with a delivery partner organisation.
+> co-led a team of 30 lead developers, developers and testers, expanding to 40 including test manager, lead developers, scrum master, developers and testers. heading up the Data Futures project from a technical perspective in conjunction with a delivery partner organisation.
 
 ##### Key responsibilities
 
