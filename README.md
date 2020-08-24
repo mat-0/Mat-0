@@ -6,8 +6,14 @@ You can see my [curriculum vitae](/curriculum-vitae.md) and my [operating manual
 
 ## Now
 
+> Based on [the now page](https://thenow.page) and an idea by [Derek Sivers](https://sive.rs/nowff)
+
 - Playing with GitHub actions
-- reorganising GitHub repositories
+- Reorganising GitHub repositories
+- Moving house
+- run more / eat better
+- Digital cleanse
+- Read backlog of Kindle books
 
 ## Find me around the web
 
