@@ -2,7 +2,12 @@
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/gh-header-image-cropped.jpg)
 
-You can see my [curriculum vitae here](/curriculum-vitae.md) and my [operating manual here](/operating-manual.md). I also love listening to podcasts so please help me on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository
+You can see my [curriculum vitae](/curriculum-vitae.md) and my [operating manual](/operating-manual.md). I also love listening to podcasts so please help me on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository
+
+## Now
+
+- Playing with GitHub actions
+- reorganising GitHub repositories
 
 ## Find me around the web
 
