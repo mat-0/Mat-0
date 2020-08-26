@@ -10,7 +10,7 @@ def replace_chunk(content, marker, chunk):
     return r.sub(chunk, content)
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://thechels.uk/feeds/master.json")["entries"]
+    entries = feedparser.parse("https://thechels.uk/feeds/feed.json")["entries"]
     return [
         {
             "title": entry["title"],
