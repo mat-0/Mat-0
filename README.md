@@ -36,4 +36,7 @@ repositories, where possible, are lowercase with underscores
 <!-- blog starts -->
 <!-- blog ends -->
 
+
+![Build README](https://github.com/MatBenfield/MatBenfield/workflows/Build%20README/badge.svg)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MatBenfield&show_icons=true)
