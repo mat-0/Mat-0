@@ -9,11 +9,11 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 > Based on [the now page](https://thenow.page) and an idea by [Derek Sivers](https://sive.rs/nowff)
 
 - Playing with GitHub actions
-- Reorganising GitHub repositories
-- ~~Moving house~~
-- run more / eat better
+- Run more / Eat well
 - Digital cleanse
 - Read backlog of Kindle books
+- ~~Reorganising GitHub repositories~~
+- ~~Moving house~~
 
 ## Repository naming convention
 
