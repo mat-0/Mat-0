@@ -14,16 +14,16 @@ def replace_chunk(content, marker, chunk):
     return r.sub(chunk, content)
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://thechels.uk/feeds/feed.json")["entries"]
+    entries = feedparser.parse("https://thechels.uk/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["date_published"].split("T")[0],
+            "published": entry["published"].split("T")[0],
         }
         for entry in entries
     ]
-print(entries)
+
 
 if __name__ == "__main__":
     readme = root / "README.md"
