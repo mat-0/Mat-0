@@ -1,5 +1,4 @@
 import feedparser
-import httpx
 import pathlib
 import re
 import os
@@ -20,10 +19,11 @@ def fetch_blog_entries():
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
+            "published": entry["date_published"].split("T")[0],
         }
         for entry in entries
     ]
+print(entries)
 
 if __name__ == "__main__":
     readme = root / "README.md"
