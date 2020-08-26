@@ -10,7 +10,7 @@ You can see my [curriculum vitae](/curriculum-vitae.md) and my [operating manual
 
 - Playing with GitHub actions
 - Reorganising GitHub repositories
-- Moving house
+- ~~Moving house~~
 - run more / eat better
 - Digital cleanse
 - Read backlog of Kindle books
@@ -23,7 +23,6 @@ repositories, where possible, are lowercase with underscores
 - Demonstrations or proof of concepts use the format `demo_name`.
 - Template or boilerplates are named in the format `template_name`
   - where appropriate these are also published through github pages and will be available at `username.github.io/repo_name` 
-
 
 ## Find me around the web
 
