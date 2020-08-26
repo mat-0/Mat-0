@@ -15,6 +15,15 @@ You can see my [curriculum vitae](/curriculum-vitae.md) and my [operating manual
 - Digital cleanse
 - Read backlog of Kindle books
 
+## Repository naming convention
+
+repositories, where possible, are lowercase with underscores
+
+- normal repositories are named as they are, sometimes this might be a domain name.
+_ demo_name are used for demonstrations or proof of concepts
+_ template_name are used for templates/layouts or starter tools
+
+
 ## Find me around the web
 
 - [LinkedIn](https://www.linkedin.com/in/mat-benfield/)
