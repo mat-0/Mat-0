@@ -32,4 +32,8 @@ repositories, where possible, are lowercase with underscores
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
 - [GitHub (work)](https://github.com/MatBenfieldHESA)
 
+## Latest poosts
+<!-- blog starts -->
+<!-- blog ends -->
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MatBenfield&show_icons=true)
