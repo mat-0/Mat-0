@@ -36,7 +36,11 @@ repositories, where possible, are lowercase with underscores
 ## Latest posts
 
 <!-- blog starts -->
-
+* [Week 43](https://thechels.uk/week-43) - 2019-10-26
+* [Week 42](https://thechels.uk/week-42) - 2019-10-20
+* [Week 41](https://thechels.uk/week-41) - 2019-10-13
+* [Week 40](https://thechels.uk/week-40) - 2019-10-06
+* [Week 39](https://thechels.uk/week-39) - 2019-09-29
 <!-- blog ends -->
 
 ## GitHub Stats
