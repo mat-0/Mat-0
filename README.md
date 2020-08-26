@@ -1,4 +1,5 @@
 # Hi, I'm Mat
+![Build README](https://github.com/MatBenfield/MatBenfield/workflows/Build%20README/badge.svg)
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/gh-header-image-cropped.jpg)
 
@@ -33,11 +34,11 @@ repositories, where possible, are lowercase with underscores
 - [GitHub (work)](https://github.com/MatBenfieldHESA)
 
 ## Latest posts
+
 <!-- blog starts -->
 
 <!-- blog ends -->
 
-
-![Build README](https://github.com/MatBenfield/MatBenfield/workflows/Build%20README/badge.svg)
+## GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MatBenfield&show_icons=true)
