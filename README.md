@@ -32,7 +32,7 @@ repositories, where possible, are lowercase with underscores
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
 - [GitHub (work)](https://github.com/MatBenfieldHESA)
 
-## Latest poosts
+## Latest posts
 <!-- blog starts -->
 <!-- blog ends -->
 
