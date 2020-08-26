@@ -19,9 +19,10 @@ You can see my [curriculum vitae](/curriculum-vitae.md) and my [operating manual
 
 repositories, where possible, are lowercase with underscores
 
-- normal repositories are named as they are, sometimes this might be a domain name.
-_ demo_name are used for demonstrations or proof of concepts
-_ template_name are used for templates/layouts or starter tools
+- Normal repositories are named as they are, sometimes this might be a domain name e.g `thechels.uk`.
+- Demonstrations or proof of concepts use the format `demo_name`.
+- Template or boilerplates are named in the format `template_name`
+  - where appropriate these are also published through github pages and will be available at `username.github.io/repo_name` 
 
 
 ## Find me around the web
