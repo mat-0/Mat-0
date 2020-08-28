@@ -31,7 +31,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - Boilerplate or templates are named in the format `template_name`.
   - where appropriate these are also published through github pages and will be available at `username.github.io/repo_name`.
 - WordPress related content (mostly plugins) are all prefixed with `wp_`.
-- Twitter bots are prefiex with `bot_`.
+- Twitter bots are prefix with `bot_`.
 - Standard repositories are named as they are, sometimes this might be a domain name e.g `thechels.uk`.
 
 ## Find me around the web
