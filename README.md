@@ -8,7 +8,7 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 
 ## Sponsor
 
-![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/paypal-qr-code-5.jpeg)
+![Paypal donation qr code](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/paypal-qr-code-5.png)
 
 ## Now
 
