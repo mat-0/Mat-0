@@ -2,9 +2,13 @@
 
 ![Build README](https://github.com/MatBenfield/MatBenfield/workflows/Build%20README/badge.svg)
 
-![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/gh-header-image-cropped.jpg)
+![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
 
 You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). I also love listening to podcasts so please help me find more, on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [people leadership documentation](https://github.com/MatBenfield/people_leadership_documentation) too.
+
+## Sponsor
+
+![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/paypal-qr-code-5.jpeg)
 
 ## Now
 
