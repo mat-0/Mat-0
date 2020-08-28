@@ -40,11 +40,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [How to create a custom GitHub issues template](https://thechels.uk/how-to-create-a-custom-issue-template-in-github) - 2020-08-28
 - [New beginnings](https://thechels.uk/new-beginnings) - 2020-08-26
 - [Week 43](https://thechels.uk/week-43) - 2019-10-26
 - [Week 42](https://thechels.uk/week-42) - 2019-10-20
 - [Week 41](https://thechels.uk/week-41) - 2019-10-13
-- [Week 40](https://thechels.uk/week-40) - 2019-10-06
 <!-- blog ends -->
 
 ## GitHub Stats
