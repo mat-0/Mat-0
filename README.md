@@ -4,27 +4,30 @@
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/gh-header-image-cropped.jpg)
 
-You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/ooperating-manual.md). I also love listening to podcasts so please help me find more on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [people leadership documentation](https://github.com/MatBenfield/people_leadership_documentation) too
+You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). I also love listening to podcasts so please help me find more, on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [people leadership documentation](https://github.com/MatBenfield/people_leadership_documentation) too.
 
 ## Now
 
 > Based on [the now page](https://thenow.page) and an idea by [Derek Sivers](https://sive.rs/nowff)
 
-- Playing with GitHub actions
 - Run more / Eat well
 - Digital cleanse
 - Read backlog of Kindle books
 - ~~Reorganising GitHub repositories~~
 - ~~Moving house~~
+- ~~Playing with GitHub actions~~
+
+[What else should I be I be doing?](/MatBenfield/MatBenfield/issues/new/choose)
 
 ## Repository naming convention
 
-repositories, where possible, are lowercase with underscores
+Repositories, where possible, are lowercase with underscores and follow the naming conventions below.
 
-- Normal repositories are named as they are, sometimes this might be a domain name e.g `thechels.uk`.
 - Demonstrations or proof of concepts use the format `demo_name`.
 - Boilerplate or templates are named in the format `template_name`
   - where appropriate these are also published through github pages and will be available at `username.github.io/repo_name`
+- WordPress related content (mostly plugins) are all prefixed with `wp_`  
+- Standard repositories are named as they are, sometimes this might be a domain name e.g `thechels.uk`.
 
 ## Find me around the web
 
