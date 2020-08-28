@@ -17,7 +17,7 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 - ~~Moving house~~
 - ~~Playing with GitHub actions~~
 
-[What else should I be I be doing?](/MatBenfield/MatBenfield/issues/new/choose)
+[What should I be doing next?](/MatBenfield/MatBenfield/issues/new?assignees=MatBenfield&labels=Next&template=next.md&title=Next%3A+)
 
 ## Repository naming convention
 
