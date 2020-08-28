@@ -19,7 +19,7 @@ jobs:
         uses: imjohnbo/issue-bot@v2.3
         with:
           assignees: "MatBenfield"
-          labels: "dependencies"
+          labels: "ToDo"
           # assignees & labels in the template are overridden by the values specified in this action
           template: ".github/ISSUE_TEMPLATE/scheduled.md"
         env:
