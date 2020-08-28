@@ -1,0 +1,26 @@
+---
+name: Create issue annually
+on:  # yamllint disable-line rule:truthy
+  # Scheduled for 2am on 15th August every year
+  schedule:
+    - cron: '20 22 28 8 *'  # * is a special character in YAML so we have to quote this string
+
+jobs:
+  create_issue:
+    name: Create scheduled issue
+    runs-on: ubuntu-20.04
+    steps:
+
+      # Repo code checkout required if `template` is used
+      - name: Checkout
+        uses: actions/checkout@v2.3.2
+
+      - name: issue-bot
+        uses: imjohnbo/issue-bot@v2.3
+        with:
+          assignees: "MatBenfield"
+          labels: "dependencies"
+          # assignees & labels in the template are overridden by the values specified in this action
+          template: ".github/ISSUE_TEMPLATE/scheduled.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
