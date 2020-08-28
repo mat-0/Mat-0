@@ -1,9 +1,9 @@
 ---
-name: Scheduled
+name: Scheduled 
 on:
   schedule:
-    - cron: '25 23 28 8 *'  
-
+  - cron: "27 23 28 8 *"
+    
 jobs:
   create_issue:
     name: Create scheduled issue
