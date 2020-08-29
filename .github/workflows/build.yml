@@ -30,6 +30,10 @@ jobs:
       run: |-
         python /python/get_blog_posts.py
         cat README.md
+    - name: Update twitter
+      run: |-
+        python /python/sent_tweet.py
+        cat README.md        
     - name: Commit and push if README changed
       run: |-
         git diff
