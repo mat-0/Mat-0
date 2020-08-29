@@ -3,7 +3,7 @@ import pathlib
 import re
 import os
 
-root = pathlib.Path(__file__).parent.resolve()
+root = pathlib.Path(__file__).parent.parent.resolve()
 
 def replace_chunk(content, marker, chunk):
     r = re.compile(
