@@ -31,6 +31,11 @@ jobs:
         python 'python/get_blog_posts.py'
         cat README.md
     - name: Update twitter
+      env:
+        key: ${{ secrets.TW_ACCESS_SECRET. }}
+        secret: ${{ secrets.TW_ACCESS_TOKEN }}
+        consumer: ${{ secrets.TW_CONSUMER_KEY }}
+        token: ${{ secrets.TW_CONSUMER_SECRET }}
       run: |-
         python 'python/sent_tweet.py'     
     - name: Commit and push if README changed
