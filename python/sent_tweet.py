@@ -1,11 +1,12 @@
 # importing the module
-import tweepy 
+import tweepy
+import os
 
 # personal details 
-consumer_key = ${{ secrets.TW_ACCESS_SECRET }}
-consumer_secret = ${{ secrets.TW_ACCESS_TOKEN }}
-access_token = ${{ secrets.TW_CONSUMER_KEY }}
-access_token_secret = ${{ secrets.TW_CONSUMER_SECRET }}
+consumer_key = os.getenv('c_key')
+consumer_secret = os.getenv('c_secret')
+access_token = os.getenv('a_token')
+access_token_secret = os.getenv('a_secret')
 
 # authentication of consumer key and secret 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret) 
