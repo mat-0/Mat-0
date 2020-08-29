@@ -32,7 +32,7 @@ jobs:
         cat README.md
     - name: Update twitter
       env:
-        key: ${{ secrets.TW_ACCESS_SECRET. }}
+        key: ${{ secrets.TW_ACCESS_SECRET }}
         secret: ${{ secrets.TW_ACCESS_TOKEN }}
         consumer: ${{ secrets.TW_CONSUMER_KEY }}
         token: ${{ secrets.TW_CONSUMER_SECRET }}
