@@ -1,2 +1,2 @@
 feedparser
-httpx
+tweepy
