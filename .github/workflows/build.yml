@@ -1,4 +1,4 @@
-name: Build README
+name: Build
 # build and tweet
 on:
   push:
@@ -28,11 +28,11 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Update README
       run: |-
-        python /python/get_blog_posts.py
+        python '/python/get_blog_posts.py'
         cat README.md
     - name: Update twitter
       run: |-
-        python /python/sent_tweet.py     
+        python '/python/sent_tweet.py'     
     - name: Commit and push if README changed
       run: |-
         git diff
