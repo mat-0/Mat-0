@@ -12,7 +12,7 @@ From May 2010 through to May 2018, created and managed football statistics based
 
 - Methodologies - Scrum, Kanban, Waterfall
 - Stack: C# .Net, MVC, nuget, Azure, Oracle
-- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Sass
+- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, and Selenium Web driver
 - Source Control: TFS, Azure DevOps, Git, Github, subversion, CVS
 - Database: MySQL, Oracle, SQL Server
