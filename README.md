@@ -6,7 +6,7 @@
 
 You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). I also love listening to podcasts so please help me find more, on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [people leadership documentation](https://github.com/MatBenfield/people_leadership_documentation) too.
 
-I have been playing with python and have created a couple of [twitter]((https://github.com/TheChelsOrg/bot_nineteenth_of_may)) [bots](https://github.com/TheChelsOrg/bot_twitter_word_games) that recount a famous night in history or play a couple of well known word games using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players.
+I have been playing with python and have created a couple of [twitter](https://github.com/TheChelsOrg/bot_nineteenth_of_may) [bots](https://github.com/TheChelsOrg/bot_twitter_word_games) that recount a famous night in history or play a couple of well known word games using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players.
 
 ## Sponsor
 
@@ -43,6 +43,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Strava](https://www.strava.com/athletes/24249743)
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
 - [GitHub (work)](https://github.com/MatBenfieldHESA)
+- Twitter
+  - [Tocfcws](https://twitter.com/tocfcws)
+  - [19thMayBot](https://twitter.com/19thMayBot)
+  - [ChelseaPuzzles](https://twitter.com/ChelseaPuzzles)
+
 
 ## Latest posts
 
