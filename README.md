@@ -47,6 +47,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
   - [Tocfcws](https://twitter.com/tocfcws)
   - [19thMayBot](https://twitter.com/19thMayBot)
   - [ChelseaPuzzles](https://twitter.com/ChelseaPuzzles)
+  - [kutf](https://twitter.com/kutf)
 
 
 ## Latest posts
