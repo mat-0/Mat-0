@@ -7,10 +7,8 @@ import feedparser
 
 root = pathlib.Path(__file__).parent.parent.resolve()
 
-"""
-replacer
-"""
 def replace_chunk(content, marker, chunk):
+    """ Swap out placeholders """
     replacer = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
@@ -18,10 +16,8 @@ def replace_chunk(content, marker, chunk):
     chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
     return replacer.sub(chunk, content)
 
-"""
-Get blog posts
-"""
 def fetch_blog_entries():
+    """Get blog posts from RSS"""
     entries = feedparser.parse("https://thechels.uk/feed.xml")["entries"]
     return [
         {
