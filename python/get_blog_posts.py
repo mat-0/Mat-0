@@ -2,13 +2,13 @@
 Get RSS feed
 """
 import re
-import os
-import feedparser
 import pathlib
+import feedparser
 
 root = pathlib.Path(__file__).parent.parent.resolve()
 
 def replace_chunk(content, marker, chunk):
+    """ Swap out placeholders """
     replacer = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
@@ -17,6 +17,7 @@ def replace_chunk(content, marker, chunk):
     return replacer.sub(chunk, content)
 
 def fetch_blog_entries():
+    """Get blog posts from RSS"""
     entries = feedparser.parse("https://thechels.uk/feed.xml")["entries"]
     return [
         {
@@ -30,11 +31,10 @@ def fetch_blog_entries():
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    
     entries = fetch_blog_entries()[:5]
-    entries_md = "\n".join(
+    E_MD = "\n".join(
         ["- [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
-    
-    rewritten = replace_chunk(readme_contents, "blog", entries_md)
+
+    rewritten = replace_chunk(readme_contents, "blog", E_MD)
     readme.open("w").write(rewritten)
