@@ -1,17 +1,20 @@
-import feedparser
-import pathlib
+"""
+Get RSS feed
+"""
 import re
 import os
+import feedparser
+import pathlib
 
 root = pathlib.Path(__file__).parent.parent.resolve()
 
 def replace_chunk(content, marker, chunk):
-    r = re.compile(
+    replacer = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
     )
     chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
-    return r.sub(chunk, content)
+    return replacer.sub(chunk, content)
 
 def fetch_blog_entries():
     entries = feedparser.parse("https://thechels.uk/feed.xml")["entries"]
@@ -23,7 +26,6 @@ def fetch_blog_entries():
         }
         for entry in entries
     ]
-
 
 if __name__ == "__main__":
     readme = root / "README.md"
