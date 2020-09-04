@@ -1,6 +1,6 @@
 # Hi, I'm Mat
 
-![Build README](https://github.com/MatBenfield/MatBenfield/workflows/Build%20README/badge.svg) ![Pylint](https://github.com/MatBenfield/MatBenfield/workflows/Pylint/badge.svg)
+![Build README](https://github.com/MatBenfield/MatBenfield/workflows/Build%20README/badge.svg) ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg)
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
 
