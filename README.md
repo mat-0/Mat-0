@@ -1,6 +1,6 @@
 # Hi, I'm Mat
 
-![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg)) ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg)
+![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg)
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
 
