@@ -5,6 +5,8 @@ on:
     branches-ignore: [master, Main]
   pull_request:
     branches: [master, Main]
+  workflow_dispatch:
+    branches: [master, Main]
 jobs:
   build:
     name: Linter
