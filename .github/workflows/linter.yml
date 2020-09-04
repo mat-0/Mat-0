@@ -1,12 +1,6 @@
 name: Linter
 # https://help.github.com/en/articles/workflow-syntax-for-github-actions
-on:
-  push:
-    branches-ignore: [master, Main]
-  pull_request:
-    branches: [master, Main]
-  workflow_dispatch:
-    branches: [master, Main]
+on: [pull_request, workflow_dispatch]
 jobs:
   build:
     name: Linter
