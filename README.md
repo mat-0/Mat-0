@@ -64,7 +64,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 | Owner | Repo | Builds | Linter |
 |--|--|--|--|
-| [Personal](https://github.com/MatBenfield/) | [MatBenfield](https://github.com/MatBenfield/MatBenfield) | ![Build README](https://github.com/MatBenfield/MatBenfield/workflows/Build%20README/badge.svg) | ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg) | 
+| [Personal](https://github.com/MatBenfield/) | [MatBenfield](https://github.com/MatBenfield/MatBenfield) | ![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg) | 
 | [Personal](https://github.com/MatBenfield/) | [lunch.thechels.uk](https://github.com/MatBenfield/lunch.thechels.uk) | ![Daily Build](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Daily%20Build/badge.svg) |![Linter](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Linter/badge.svg)|
 | [Personal](https://github.com/MatBenfield/) | [scrumradiator.thechels.uk](https://github.com/MatBenfield/scrumradiator.thechels.uk) | ![Daily Build](https://github.com/MatBenfield/scrumradiator.thechels.uk/workflows/Daily%20Build/badge.svg) |![Linter](https://github.com/MatBenfield/scrumradiator.thechels.uk/workflows/Linter/badge.svg)|
 | [Personal](https://github.com/MatBenfield/) | [horofootball.thechels.uk](https://github.com/MatBenfield/horofootball.thechels.uk/) | ![Daily Build](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Linter/badge.svg) |
