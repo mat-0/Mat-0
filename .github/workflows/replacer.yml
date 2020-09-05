@@ -1,0 +1,13 @@
+name: My Workflow
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "{{repo_url}}"
+          replace: GITHUB_SERVER_URL +"/"+ GITHUB_REPOSITORY
+          include: "*.md"
