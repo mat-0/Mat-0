@@ -9,4 +9,4 @@ Many Thanks
 - [ ] Please delete the above message and line before submitting your pull request
 - [ ] Ensure, where possible your change includes tests
 - [ ] Ensure, where possible documentation is updated (readme, wiki)
-- [ ] Commit messages matches the commit message criteria
+- [ ] Commit messages matches the [commit message criteria](COMMIT.md)
