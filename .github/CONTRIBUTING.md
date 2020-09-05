@@ -68,7 +68,7 @@ provide as much detail and context as possible.
 
 ### Typos
 
-Please raise an issue for any typos on the site with a link to the offending page. start the first line of an issue with '(sp)' and include a url to the page in question. Language differences (e.g defense vs defence) won't be accepted.
+Please raise an issue for any typos on the site with a link to the offending page or file. start the first line of an issue with '(sp)' and include a url to the page in question. Language differences (e.g defense vs defence) won't be accepted.
 
 ### Documentation
 
