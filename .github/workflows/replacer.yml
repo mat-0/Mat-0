@@ -1,4 +1,4 @@
-name: My Workflow
+name: Replacer
 on: [push, pull_request]
 jobs:
   build:
@@ -10,4 +10,3 @@ jobs:
         with:
           find: "{{repo_url}}"
           replace: GITHUB_SERVER_URL +"/"+ GITHUB_REPOSITORY
-          include: "*.md"
