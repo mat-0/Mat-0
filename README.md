@@ -53,11 +53,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [From PHP to Python and GitHub Actions](https://thechels.uk/php-to-python-with-github-actions) - 2020-09-05
 - [How to create a custom GitHub issues template](https://thechels.uk/how-to-create-a-custom-issue-template-in-github) - 2020-08-28
 - [New beginnings](https://thechels.uk/new-beginnings) - 2020-08-26
 - [Week 43](https://thechels.uk/week-43) - 2019-10-26
 - [Week 42](https://thechels.uk/week-42) - 2019-10-20
-- [Week 41](https://thechels.uk/week-41) - 2019-10-13
 <!-- blog ends -->
 
 ## Status badges
