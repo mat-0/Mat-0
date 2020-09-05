@@ -1,0 +1,7 @@
+contact_links:
+  - name: Contributing
+    url: https://github.com/MatBenfield/MatBenfield/blob/master/.github/CONTRIBUTING.md
+    about: Please read about contributing.
+  - name: Code of conduct
+    url: https://github.com/MatBenfield/MatBenfield/blob/master/.github/CODE-OF-CONDUCT.md
+    about: Please read the code of conduct.
