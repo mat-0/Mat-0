@@ -4,9 +4,9 @@
 
 Self-taught, experienced and engaged Head of Software Development with a passion for agile methodologies and delivering value. A leader and catalyst for change. Attends local .Net Meetups and Geek nights to further extend knowledge and be a member of the development community.
 
-Keen non-elite runner, achieving 1200 miles to raise over £1000 for Acorns Hospice in 2019, including 3 half marathons, a 10 miler and two 10kms races. Member of local running club and volunteers at parkrun.
+Keen non-elite runner, achieving 1200 miles to raise over £1000 for Acorns Hospice in 2019, including 3 half marathons, a 10 miler and two 10kms races. Member of local running club and parkrun volunteer.
 
-From May 2010 through to May 2018, created and managed football statistics based website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak over 175,000 followers with visibility to over 5 million users per week, and visitors from over 150 countries on the website.
+From May 2010 through to May 2018, created and managed football statistics based website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak over 175,000 followers with visibility to over 5 million users per week, and website visitors from over 150 countries.
 
 ## Core Skills
 
