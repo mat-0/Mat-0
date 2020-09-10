@@ -19,6 +19,7 @@ I have been playing with python and have created a couple of [twitter](https://g
 - Run more / Eat well
 - Digital cleanse
 - Read backlog of Kindle books
+- Build a GitHub action
 - ~~Reorganising GitHub repositories~~
 - ~~Moving house~~
 - ~~Playing with GitHub actions~~
