@@ -4,7 +4,7 @@
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
 
-You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). I also love listening to podcasts so please help me find more, on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [people leadership documentation](https://github.com/MatBenfield/people_leadership_documentation) too.
+You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). I also love listening to podcasts so please help me find more, on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [people leadership documentation](https://github.com/MatBenfield/people_leadership_documentationx) too.
 
 I have been playing with python and have created a couple of [twitter](https://github.com/TheChelsOrg/bot_nineteenth_of_may) [bots](https://github.com/TheChelsOrg/bot_twitter_word_games) that recount a famous night in history or play a couple of well known word games using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players, [determine what club crisis is happening today](https://isthereacrisis.thechels.uk), or [help people decide what to have for lunch in Cheltenham](https://lunch.thechels.uk).
 
