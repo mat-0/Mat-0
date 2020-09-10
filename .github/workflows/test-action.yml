@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - id: foo
-      uses: /MatBenfield/find_replace_repo_name_action@v1
+      uses: /MatBenfield/find_replace_repo_name_action@v1.1
       with:
         who-to-greet: 'MatBenfield'
     - run: echo random-number ${{ steps.foo.outputs.random-number }} 
