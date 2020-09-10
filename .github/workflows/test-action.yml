@@ -1,3 +1,4 @@
+name: test-action
 on: [push]
 
 jobs:
