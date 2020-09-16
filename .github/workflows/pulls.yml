@@ -1,0 +1,13 @@
+name: Pull Requests
+# build and tweet
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    name: Update Lights
+      env:
+        IFTTT_URL: ${{ secrets.TOGGLE_IFTTT_HUE_GO }}
+      run: python 'python/update_lights.py'
