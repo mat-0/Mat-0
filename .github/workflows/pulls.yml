@@ -1,13 +1,12 @@
 name: Pull Requests
 # build and tweet
-on:
-  pull_request:
-
+on: [pull_request, workflow_dispatch]
 jobs:
   build:
+    name: Linter
     runs-on: ubuntu-latest
     steps:
-    name: Update Lights
-      env:
-        IFTTT_URL: ${{ secrets.TOGGLE_IFTTT_HUE_GO }}
-      run: python 'python/update_lights.py'
+      - name: Update Lights
+        env:
+          IFTTT_URL: ${{ secrets.TOGGLE_IFTTT_HUE_GO }}
+          run: python 'python/update_lights.py'
