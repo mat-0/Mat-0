@@ -2,10 +2,27 @@ name: Lighting
 on: [pull_request, workflow_dispatch]
 jobs:
   build:
-    name: Lighting
     runs-on: ubuntu-latest
     steps:
-      - name: Update Lights
-        env:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r requirements.txt
+    - name: update lights
+      env:
           IFTTT_URL: ${{ secrets.TOGGLE_IFTTT_HUE_GO }}
-        run: python 'python/update_lights.py'
+      run: python 'python/update_lights.py'
+
+
