@@ -6,8 +6,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
     name: Update Lights
-      env:
-        IFTTT_URL: ${{ secrets.TOGGLE_IFTTT_HUE_GO }}
+    env:
+      IFTTT_URL: ${{ secrets.TOGGLE_IFTTT_HUE_GO }}
       run: python 'python/update_lights.py'
