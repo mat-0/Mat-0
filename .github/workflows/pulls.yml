@@ -1,9 +1,8 @@
 name: Pull Requests
-# build and tweet
 on: [pull_request, workflow_dispatch]
 jobs:
   build:
-    name: Linter
+    name: Lighting
     runs-on: ubuntu-latest
     steps:
       - name: Update Lights
