@@ -6,7 +6,7 @@
 
 You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). I also love listening to podcasts so please help me find more, on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [people leadership documentation](https://github.com/MatBenfield/people_leadership_documentation) too.
 
-I have been playing with python and have created a couple of [twitter](https://github.com/TheChelsOrg/bot_nineteenth_of_may) [bots](https://github.com/TheChelsOrg/bot_twitter_word_games) that recount a famous night in history or play a couple of well known word games using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players, [determine what club crisis is happening today](https://isthereacrisis.thechels.uk), or [help people decide what to have for lunch in Cheltenham](https://lunch.thechels.uk). My next tool is to build a web page to act as a default homepage for my [morning routine](https://morning.thechels.uk) to include news, weather, calendar events, and stocks.
+I have been playing with python and have created a couple of [twitter](https://github.com/TheChelsOrg/bot_nineteenth_of_may) [bots](https://github.com/TheChelsOrg/bot_twitter_word_games) that recount a famous night in history or play a couple of well known word games using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players, [determine what club crisis is happening today](https://isthereacrisis.thechels.uk), or [help people decide what to have for lunch in Cheltenham](https://lunch.thechels.uk). [Morning](https://morning.thechels.uk) is a site to include news, weather, sports events, and stocks built using github-actions and python as part of my morning routine.
 
 ## Sponsor
 
@@ -20,7 +20,7 @@ I have been playing with python and have created a couple of [twitter](https://g
 - Digital cleanse
 - Read backlog of Kindle books
 - Build a GitHub action
-- Build morning.thechels.uk
+- ~~Build morning.thechels.uk~~
 - ~~Reorganising GitHub repositories~~
 - ~~Moving house~~
 - ~~Playing with GitHub actions~~
