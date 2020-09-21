@@ -17,17 +17,17 @@ underlying principle: Hands-off as much as possible and hands-on as much as nece
 ## My expectations of colleagues who report to me
 
 Please reach out and tell me if anything, at all, feels off.
-It’s so much harder to solve problems when we are guessing what they are. I will never consider proactively speaking up about challenges or issues as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together.
+It’s so much harder to solve problems when we are guessing what they are. I will never consider pro-actively speaking up about challenges or issues as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together.
 
-Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
+Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is can be unclear).
 
-Please invest in one-to-ones - if you are a manager, please do regular (monthly) one-to-ones, and if you’re an developer/tester, please use the time of the one-to-one as a chance to reflect on your challenges and growth and come prepared.
+If you are also a manager, please invest in one-to-ones - please do regular (monthly) one-to-ones, and more frequently for new colleagues/relationships. If you’re a developer/tester, please use the time of the one-to-one as a chance to reflect on your challenges and growth and come prepared.
 
 Please set healthy goals and boundaries for yourself, and if you’re a manager, model healthy work-life balance to your team.
 
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
-In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you for what comes up because I can’t see how you’re doing by walking around an office.
+In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you, for whatever comes up, because I can’t see how you’re doing by walking around an office.
 
 ## What you can expect of me as your manager
 
