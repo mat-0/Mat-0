@@ -42,7 +42,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 ## Find me around the web
 
-- [blog](https://thechels.uk)
+- [Blog](https://thechels.uk)
 - [LinkedIn](https://www.linkedin.com/in/mat-benfield/)
 - [MeetUp](https://www.meetup.com/members/197754442/)
 - [Strava](https://www.strava.com/athletes/24249743)
