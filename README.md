@@ -56,11 +56,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Rolling average online generator tool](https://thechels.uk/rolling-average-generator-online-tool) - 2020-10-04
+- [Reverse lines online tool](https://thechels.uk/reverse-list-online-tool) - 2020-10-04
+- [Line Graph Generator online tool](https://thechels.uk/line-graph-generator-online-tool) - 2020-10-04
 - [Learning Classes in Python](https://thechels.uk/classes-in-python) - 2020-09-05
 - [From PHP to Python and GitHub Actions](https://thechels.uk/php-to-python-with-github-actions) - 2020-09-05
-- [How to create a custom GitHub issues template](https://thechels.uk/how-to-create-a-custom-issue-template-in-github) - 2020-08-28
-- [New beginnings](https://thechels.uk/new-beginnings) - 2020-08-26
-- [Week 43](https://thechels.uk/week-43) - 2019-10-26
 <!-- blog ends -->
 
 ## Status badges
