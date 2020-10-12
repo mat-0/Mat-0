@@ -12,6 +12,8 @@ I have been playing with python, recently, and have created some twitter bots th
 
 * [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
 
+* [Cheltenham Coronovirus Data](https://matbenfield.github.io/cheltenham_coronavirus_data/) is a site using and archiving official government statistics for Cheltenham.
+
 ## Sponsor
 
 ![Paypal donation qr code](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/paypal-qr-code-5.png)
@@ -21,9 +23,9 @@ I have been playing with python, recently, and have created some twitter bots th
 > Based on [the now page](https://thenow.page) and an idea by [Derek Sivers](https://sive.rs/nowff)
 
 - Run more / Eat well
-- Digital cleanse
 - Read backlog of Kindle books
-- Build a GitHub action
+- Learn Typescript
+- ~~Build a GitHub action~~
 - ~~Build morning.thechels.uk~~
 - ~~Reorganising GitHub repositories~~
 - ~~Moving house~~
