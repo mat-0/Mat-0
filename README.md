@@ -8,7 +8,7 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 
 [I occassionally blog here](https://thechels.uk).
 
-I have been playing with python, recently, and have created some twitter bots that [tweet breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news),  [recount a famous night in history](https://github.com/TheChelsOrg/bot_nineteenth_of_may), [play a some well known word games](https://github.com/TheChelsOrg/bot_chelsea_puzzles) using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players, [determine what club crisis is happening today](https://isthereacrisis.thechels.uk), or [help people decide what to have for lunch in Cheltenham](https://lunch.thechels.uk). 
+I have been playing with python, recently, and have created some twitter bots that [tweet breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news),  [recount a famous night in history](https://github.com/TheChelsOrg/bot_nineteenth_of_may), [play some well known word games](https://github.com/TheChelsOrg/bot_chelsea_puzzles) using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players, [determine what club crisis is happening today](https://isthereacrisis.thechels.uk), or [help people decide what to have for lunch in Cheltenham](https://lunch.thechels.uk). 
 
 * [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
 
