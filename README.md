@@ -12,7 +12,9 @@ I have been playing with python, recently, and have created some twitter bots th
 
 * [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
 
-* [Cheltenham Coronovirus Data](https://matbenfield.github.io/cheltenham_coronavirus_data/) is a site using and archiving official government statistics for Cheltenham.
+* [Cheltenham coronavirus data](https://matbenfield.github.io/cheltenham_coronavirus_data/) is a site using and archiving official government statistics for Cheltenham.
+
+* [Cheltenham food bank data](https://matbenfield.github.io/cheltenham_foodbank_data/) is a site using and archiving local food bank data for Cheltenham.
 
 ## Sponsor
 
