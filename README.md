@@ -13,7 +13,7 @@ I have been playing with python, recently, and have created some twitter bots th
 * [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
 * [Cheltenham coronavirus data](https://cheltenham-covid-data.thechels.uk) is a site using and archiving official government statistics for Cheltenham.
 * [Cheltenham food bank data](https://cheltenham-food-bank.thechels.uk) is a site using and archiving local food bank data for Cheltenham.
-* [Cheltenham lunch venue randomiser](https://lunch.thechels.uk) is a site to help people decide what to have for lunch in Cheltenham
+* [Cheltenham lunch venue randomiser](https://lunch.thechels.uk) is a site to help people decide what to have for lunch in Cheltenham.
 
 ## Sponsor
 
