@@ -8,13 +8,12 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 
 [I occassionally blog here](https://thechels.uk).
 
-I have been playing with python, recently, and have created some twitter bots that [tweet breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news),  [recount a famous night in history](https://github.com/TheChelsOrg/bot_nineteenth_of_may), [play some well known word games](https://github.com/TheChelsOrg/bot_chelsea_puzzles) using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players, [determine what club crisis is happening today](https://isthereacrisis.thechels.uk), or [help people decide what to have for lunch in Cheltenham](https://lunch.thechels.uk). 
+I have been playing with python, recently, and have created some twitter bots that [tweet breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news),  [recount a famous night in history](https://github.com/TheChelsOrg/bot_nineteenth_of_may), [play some well known word games](https://github.com/TheChelsOrg/bot_chelsea_puzzles) using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players, or [determine what club crisis is happening today](https://isthereacrisis.thechels.uk).
 
 * [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
-
-* [Cheltenham coronavirus data](https://matbenfield.github.io/cheltenham_coronavirus_data/) is a site using and archiving official government statistics for Cheltenham.
-
-* [Cheltenham food bank data](https://matbenfield.github.io/cheltenham_foodbank_data/) is a site using and archiving local food bank data for Cheltenham.
+* [Cheltenham coronavirus data](https://cheltenham-covid-data.thechels.uk) is a site using and archiving official government statistics for Cheltenham.
+* [Cheltenham food bank data](https://cheltenham-food-bank.thechels.uk) is a site using and archiving local food bank data for Cheltenham.
+* [Cheltenham lunch venue randomiser](https://lunch.thechels.uk) is a site to help people decide what to have for lunch in Cheltenham
 
 ## Sponsor
 
