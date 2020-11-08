@@ -13,8 +13,8 @@ I have been playing with python, recently, and have created some twitter bots th
 * [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
 * [Cheltenham coronavirus data](https://cheltenham-covid-data.thechels.uk) is a site using and archiving official government statistics for Cheltenham.
 * [Cheltenham food bank data](https://cheltenham-food-bank.thechels.uk) is a site using and archiving local food bank data for Cheltenham.
-* [Cheltenham lunch venue randomiser](https://lunch.thechels.uk) is a site to help people decide what to have for lunch in Cheltenham.
-
+* [Cheltenham lunch venue randomiser](https://cheltenham-lunch.thechels.uk) is a site to help people decide what to have for lunch in Cheltenham.
+* [Cheltenham crime data](https://cheltenham-crime-data.thechels.uk) is a site to track stree crime in Cheltenham neighbourhoods.
 ## Sponsor
 
 ![Paypal donation qr code](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/paypal-qr-code-5.png)
@@ -25,7 +25,7 @@ I have been playing with python, recently, and have created some twitter bots th
 
 - Run more / Eat well
 - Read backlog of Kindle books
-- Learn Typescript
+- ~~Learn Typescript~~
 - ~~Build a GitHub action~~
 - ~~Build morning.thechels.uk~~
 - ~~Reorganising GitHub repositories~~
