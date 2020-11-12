@@ -68,7 +68,6 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 | [Personal](https://github.com/MatBenfield/) | [MatBenfield](https://github.com/MatBenfield/MatBenfield) | ![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg) || [Personal](https://github.com/MatBenfield/) | [thechels.uk](https://github.com/MatBenfield/thechels.uk) | | ![Linter](https://github.com/MatBenfield/TheChels.uk/workflows/Linter/badge.svg) |
 | [Personal](https://github.com/MatBenfield/) | [morning.thechels.uk](https://github.com/MatBenfield/morning.thechels.uk) | ![Daily Build](https://github.com/MatBenfield/morning.thechels.uk/workflows/Daily%20Build/badge.svg) <br/> ![Label Build](https://github.com/MatBenfield/morning.thechels.uk/workflows/Label%20Build/badge.svg) |![Linter](https://github.com/MatBenfield/morning.thechels.uk/workflows/Linter/badge.svg)|
 | [Personal](https://github.com/MatBenfield/) | [horofootball.thechels.uk](https://github.com/MatBenfield/horofootball.thechels.uk/) | ![Daily Build](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Linter/badge.svg) |
-| [CLC Striders](https://github.com/CLCStriders/) | [striders](https://github.com/CLCStriders/striders/) | ![CodeQL](https://github.com/CLCStriders/striders/workflows/CodeQL/badge.svg) |
 
 ## GitHub Stats
 
