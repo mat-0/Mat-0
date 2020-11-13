@@ -63,11 +63,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 ## Status badges
 
-| Owner | Repo | Builds | Linter |
-|--|--|--|--|
-| [Personal](https://github.com/MatBenfield/) | [MatBenfield](https://github.com/MatBenfield/MatBenfield) | ![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg) || [Personal](https://github.com/MatBenfield/) | [thechels.uk](https://github.com/MatBenfield/thechels.uk) | | ![Linter](https://github.com/MatBenfield/TheChels.uk/workflows/Linter/badge.svg) |
-| [Personal](https://github.com/MatBenfield/) | [morning.thechels.uk](https://github.com/MatBenfield/morning.thechels.uk) | ![Daily Build](https://github.com/MatBenfield/morning.thechels.uk/workflows/Daily%20Build/badge.svg) <br/> ![Label Build](https://github.com/MatBenfield/morning.thechels.uk/workflows/Label%20Build/badge.svg) |![Linter](https://github.com/MatBenfield/morning.thechels.uk/workflows/Linter/badge.svg)|
-| [Personal](https://github.com/MatBenfield/) | [horofootball.thechels.uk](https://github.com/MatBenfield/horofootball.thechels.uk/) | ![Daily Build](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Linter/badge.svg) |
+| Repo | Builds | Linter |
+|--|--|--|
+| [MatBenfield](https://github.com/MatBenfield/MatBenfield) | ![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg) || [Personal](https://github.com/MatBenfield/) | [thechels.uk](https://github.com/MatBenfield/thechels.uk) | | ![Linter](https://github.com/MatBenfield/TheChels.uk/workflows/Linter/badge.svg) |
+| [morning.thechels.uk](https://github.com/MatBenfield/morning.thechels.uk) | ![Daily Build](https://github.com/MatBenfield/morning.thechels.uk/workflows/Daily%20Build/badge.svg) <br/> ![Label Build](https://github.com/MatBenfield/morning.thechels.uk/workflows/Label%20Build/badge.svg) |![Linter](https://github.com/MatBenfield/morning.thechels.uk/workflows/Linter/badge.svg)|
+| [horofootball.thechels.uk](https://github.com/MatBenfield/horofootball.thechels.uk/) | ![Daily Build](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Linter/badge.svg) |
 
 ## GitHub Stats
 
