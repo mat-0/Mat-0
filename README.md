@@ -54,11 +54,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [YouTube video workflow](https://thechels.uk/youtube-video-workflow) - 2020-12-22
+- [GitHub removes non-essential cookies](https://thechels.uk/github-no-cookies) - 2020-12-18
 - [Everyday health rules](https://thechels.uk/everyday-health-rules) - 2020-12-17
 - [Stupid taxes](https://thechels.uk/stupid-taxes) - 2020-12-16
 - [Uptime monitor and status page powered by GitHub Actions](https://thechels.uk/upptime-monitor) - 2020-11-25
-- [saving json file using github actions and curl](https://thechels.uk/saving-json-github-action) - 2020-11-12
-- [Regular expressions tool](https://thechels.uk/regular-expression-tool) - 2020-10-11
 <!-- blog ends -->
 
 ## Status badges
