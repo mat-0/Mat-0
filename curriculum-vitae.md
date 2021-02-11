@@ -8,7 +8,7 @@ Keen non-elite runner, achieving 1200 miles to raise over £1200 for Acorns Hosp
 
 From May 2010 through to May 2018, created and managed football statistics based website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak over 175,000 followers with visibility to over 5 million users per week, and website visitors from over 150 countries.
 
-Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
+Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages - resulting in an annual club award.
 
 ## Core Skills
 
@@ -18,7 +18,7 @@ Latest personal project was to redesign running club website using Jekyll, a sta
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, and Selenium Web driver
 - Source Control: TFS, Azure DevOps, Git, Github, subversion, CVS
 - Database: MySQL, Oracle, SQL Server
-- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress.
+- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Miro.
 - OS : Mac, Windows
 
 ## Employment History
@@ -30,26 +30,27 @@ In addition to current role acting as a Product Owner, (certified) Scrum Master,
 
 #### HEAD OF SOFTWARE DEVELOPMENT (October 2019 - current)
 
-> co-led a team of 30 lead developers, developers and testers, expanding to 40 including test manager, lead developers, scrum master, developers and testers. heading up the Data Futures project from a technical perspective in conjunction with a delivery partner organisation.
+> co-led a team of 30 lead developers, developers and testers, expanding to ~45 including test manager, lead developers, lead testers, scrum master, developers, and testers. heading up the Data Futures project from a technical perspective in conjunction with a delivery partner organisation.
 
 ##### Key responsibilities
 
-- Line management, pastoral care, objective setting and appraisals, resourcing
+- Line management, pastoral care, objective setting and appraisals, resourcing and recruitment
 - Member of information security and data protection management group
 - Member of Portfolio and Performance Board
 - Strategy, planning, resourcing and organisation
 - Technical oversight and decision making
-- Close collaboration for architects, product owners, directors, and CEO on project direction
+- Close collaboration with architects, product owners, directors, and CEO on project direction
 - Working with third party partner organisations and key stakeholders during requirements, planning, and funding phases.
 
 ##### Key achievements and projects
 
-- Implementation of a secure development policy, test strategy, technology strategy and tech radar
+- Implementation of a secure development policy, test strategy, technology strategy, and tech radar
 - Expansion of team by 25% to accommodate work on new transformation program and increasing portfolio
+- Recertification of ISO 27001
 
 #### LEAD SOFTWARE DEVELOPER (October 2018 – October 2019)
 
-> Planning, designing and developing server and client applications. Having a key role in ensuring the best technologies and techniques are used in their development. Development of technical capability and involvement in performance assessment and development of junior colleagues. Working day-to- day within a scrum team.
+> Planning, designing and developing server and client applications. Having a key role in ensuring the best technologies and techniques are used in their development. Development of technical capability and involvement in performance assessment and development of junior colleagues. Working day-to-day within a scrum team.
 
 ##### Key responsibilities
 
