@@ -54,8 +54,8 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Tip of the day](https://thechels.uk/tip-of-the-day) - 2021-04-30
 - [YouTube video workflow](https://thechels.uk/youtube-video-workflow) - 2020-12-22
-- [Tip of the day](https://thechels.uk/tip-of-the-day) - 2020-12-22
 - [GitHub removes non-essential cookies](https://thechels.uk/github-no-cookies) - 2020-12-18
 - [Everyday health rules](https://thechels.uk/everyday-health-rules) - 2020-12-17
 - [Stupid taxes](https://thechels.uk/stupid-taxes) - 2020-12-16
