@@ -54,7 +54,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-
+- [Onboarding expectations by CircleCI](https://thechels.uk/onboarding-expectations) - 2021-05-07
+- [Onboarding checklist by CircleCI](https://thechels.uk/onboarding-checklist) - 2021-05-07
+- [Runbooks and Playbooks](https://thechels.uk/runblooks-playbooks) - 2021-05-07
+- [Tip of the day](https://thechels.uk/tip-of-the-day) - 2021-04-30
+- [YouTube video workflow](https://thechels.uk/youtube-video-workflow) - 2020-12-22
 <!-- blog ends -->
 
 ## Status badges
