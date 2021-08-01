@@ -1,4 +1,4 @@
-# Mat Benfield | Head of Software Development
+# Mat Benfield | Engineering Manager
 
 ## Personal Profile
 
