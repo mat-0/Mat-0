@@ -44,7 +44,6 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [MeetUp](https://www.meetup.com/members/197754442/)
 - [Strava](https://www.strava.com/athletes/24249743)
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
-- [GitHub (work)](https://github.com/MatBenfieldHESA)
 - Twitter
   - [Tocfcws](https://twitter.com/tocfcws)
   - [19thMayBot](https://twitter.com/19thMayBot)
