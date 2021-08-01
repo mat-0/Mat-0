@@ -12,22 +12,31 @@ Latest personal project was to redesign running club website using Jekyll, a sta
 
 ## Core Skills
 
-- Methodologies - Scrum, Kanban, Waterfall
+- Methodologies - Shape-up, Scrum, Kanban, Waterfall
 - Stack: C# .Net, MVC, nuget, Azure, Oracle
 - Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, and Selenium Web driver
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
-- Database: MySQL, Oracle, SQL Server
-- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress.
+- Cloud: AWS, Azure
+- Database: MySQL, Oracle, SQL Server, MongoDB
+- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable.
 - OS : Mac, Windows
 
 ## Employment History
+
+### Seccl
+
+> Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl are an API first technology company operating in the wealth management, financial services sector.
+
+#### ENGINEERING MANAGER (June 2021 - Current)
+
+Leading multiple squads in the investments and advice tribe with a focus on delivery, empowering and growing our engineers.
 
 ### Higher Education Statistics Agency
 
 > Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis as Designated Data body. In addition to roles acted as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal from time-to-time.
 
-#### HEAD OF SOFTWARE DEVELOPMENT (October 2019 - current)
+#### HEAD OF SOFTWARE DEVELOPMENT (October 2019 - June 2021)
 
 > co-led a team of 30 lead developers, developers and testers, expanding to 46 including test manager, lead developers, lead testers, scrum master, developers and testers. heading up the Data Futures project from a technical perspective in conjunction with a delivery partner organisation.
 
