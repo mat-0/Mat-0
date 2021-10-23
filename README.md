@@ -13,10 +13,6 @@ I have been playing with python, recently, and have created some twitter bots th
 * [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
 * [Cheltenham open data](https://cheltenham-open-data.github.io) is an organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, where to go for lunch, and more.
 
-## Sponsor
-
-![Paypal donation qr code](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/paypal-qr-code-5.png)
-
 ## Now
 
 > Based on [the now page](https://thenow.page) and an idea by [Derek Sivers](https://sive.rs/nowff)
