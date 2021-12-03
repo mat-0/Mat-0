@@ -8,7 +8,7 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 
 [I occassionally blog here](https://thechels.uk).
 
-I have been playing with python, recently, and have created some twitter bots that [tweet breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news),  [recount a famous night in history](https://github.com/TheChelsOrg/bot_nineteenth_of_may), [play some well known word games](https://github.com/TheChelsOrg/bot_chelsea_puzzles) using a list of [Chelsea FC](https://github.com/TheChelsOrg/) players, or [determine what club crisis is happening today](https://isthereacrisis.thechels.uk).
+I have been playing with python, recently, and have created some twitter bots notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news)
 
 * [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
 * [Cheltenham open data](https://cheltenham-open-data.github.io) is an organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, where to go for lunch, and more.
@@ -40,11 +40,8 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [MeetUp](https://www.meetup.com/members/197754442/)
 - [Strava](https://www.strava.com/athletes/24249743)
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
-- Twitter
-  - [Tocfcws](https://twitter.com/tocfcws)
-  - [19thMayBot](https://twitter.com/19thMayBot)
-  - [ChelseaPuzzles](https://twitter.com/ChelseaPuzzles)
-  - [kutf](https://twitter.com/kutf)
+- [Twitter](https://twitter.com/tocfcws)
+
 
 ## Latest posts
 
