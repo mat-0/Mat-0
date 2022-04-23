@@ -46,11 +46,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [Onboarding expectations by CircleCI](https://thechels.uk/onboarding-expectations) - 2021-05-07
-- [Onboarding checklist by CircleCI](https://thechels.uk/onboarding-checklist) - 2021-05-07
-- [Runbooks and Playbooks](https://thechels.uk/runblooks-playbooks) - 2021-05-07
-- [Tip of the day](https://thechels.uk/tip-of-the-day) - 2021-04-30
-- [YouTube video workflow](https://thechels.uk/youtube-video-workflow) - 2020-12-22
+- [A Personal Growth Framework](https://thechels.uk/a-personal-growth-framework) - 2022-04-23
+- [Adapting Accelerate to Development](https://thechels.uk/accelerate-to-development) - 2022-04-23
+- [97 Things Every Engineering Manager Should Know](https://thechels.uk/97-things-every-engineering-manager-should-know) - 2022-04-22
+- [Highway Maintenance](https://thechels.uk/highway-maintenance) - 2022-03-17
+- [New year, new career](https://thechels.uk/new-year-new-career) - 2022-01-28
 <!-- blog ends -->
 
 ## Status badges
