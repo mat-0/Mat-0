@@ -46,11 +46,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Dragon Age Induction Board](https://thechels.uk/dragon-age-induction-board) - 2022-04-24
+- [FINER criteria for asking good questions](https://thechels.uk/finer-criteria-for-asking-good-questions) - 2022-04-24
+- [How to be financially stable in 14 steps](https://thechels.uk/how-to-be-financially-stable-in-14-steps) - 2022-04-24
 - [Security considerations for your startup](https://thechels.uk/security-considerations-for-your-startup) - 2022-04-24
 - [Why checking an AC isn’t enough](https://thechels.uk/why-checking-an-ac-isn-t-enough) - 2022-04-24
-- [Organisation profiles leading the way](https://thechels.uk/organisation-profiles-leading-the-way) - 2022-04-24
-- [A Personal Growth Framework](https://thechels.uk/a-personal-growth-framework) - 2022-04-23
-- [Adapting Accelerate to Development](https://thechels.uk/accelerate-to-development) - 2022-04-23
 <!-- blog ends -->
 
 ## Status badges
