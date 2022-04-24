@@ -48,9 +48,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 <!-- blog starts -->
 - [Security considerations for your startup](https://thechels.uk/security-considerations-for-your-startup) - 2022-04-24
 - [Why checking an AC isn’t enough](https://thechels.uk/why-checking-an-ac-isn-t-enough) - 2022-04-24
+- [Organisation profiles leading the way](https://thechels.uk/organisation-profiles-leading-the-way) - 2022-04-24
 - [A Personal Growth Framework](https://thechels.uk/a-personal-growth-framework) - 2022-04-23
 - [Adapting Accelerate to Development](https://thechels.uk/accelerate-to-development) - 2022-04-23
-- [97 Things Every Engineering Manager Should Know](https://thechels.uk/97-things-every-engineering-manager-should-know) - 2022-04-22
 <!-- blog ends -->
 
 ## Status badges
