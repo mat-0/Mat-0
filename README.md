@@ -6,7 +6,7 @@
 
 You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). I also love listening to podcasts so please help me find more, on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [engineering management](https://github.com/MatBenfield/engineering-management) too.
 
-[I occassionally blog here](https://thechels.uk).
+[I occassionally blog here about stuff and things](https://thechels.uk).
 
 I have been playing with python, recently, and have created some twitter bots notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news)
 
