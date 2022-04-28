@@ -46,11 +46,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Story sizes in agile development should be as close to one day as possible](https://thechels.uk/Story-sizes-in-agile-development-should-be-as-close-to-one-day-as-possible) - 2022-04-28
 - [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://thechels.uk/a-brief-intro-to-clean-architecture,-clean-ddd,-and-cqrs) - 2022-04-28
 - [How to Handle Confidence and Competence](https://thechels.uk/How-to-Handle-Confidence-and-Competence) - 2022-04-27
 - [Catchphrases in How to safely think in systems](https://thechels.uk/catchphrases-in-how-to-safely-think-in-systems) - 2022-04-26
 - [Running My Business From an iPad](https://thechels.uk/running-my-business-from-an-ipad) - 2022-04-25
-- [Tests should build confidence](https://thechels.uk/tests-should-build-confidence) - 2022-04-25
 <!-- blog ends -->
 
 ## Status badges
