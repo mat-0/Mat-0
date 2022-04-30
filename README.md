@@ -46,11 +46,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [Cloudflare’s Secret Management with HashiCorp Vault](https://thechels.uk/cloudflare's-secret-management-with-hashicorp-vault) - 2022-04-29
-- [Story sizes in agile development should be as close to one day as possible](https://thechels.uk/Story-sizes-in-agile-development-should-be-as-close-to-one-day-as-possible) - 2022-04-28
-- [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://thechels.uk/a-brief-intro-to-clean-architecture,-clean-ddd,-and-cqrs) - 2022-04-28
-- [How to Handle Confidence and Competence](https://thechels.uk/How-to-Handle-Confidence-and-Competence) - 2022-04-27
-- [Catchphrases in How to safely think in systems](https://thechels.uk/catchphrases-in-how-to-safely-think-in-systems) - 2022-04-26
+- [Everything You Need to Know about Cyber Crisis Tabletop Exercises](https://thechels.uk/everything-you-need-to-know-about-cyber-crisis-tabletop-exercises) - 2022-04-30
+- [Five Methods of Facilitation for Collaborative Meetings](https://thechels.uk/five-methods-of-facilitation-for-collaborative-meetings) - 2022-04-30
+- [Good News! IAM Is Near-Universal With SaaS](https://thechels.uk/good-news-iam-is-near-universal-with-saas) - 2022-04-30
+- [Migrating oidc-client-js to use the OpenID Connect Authorization Code Flow and PKCE](https://thechels.uk/migrating-oidc-client-js-to-use-the-openid-connect-authorization-code-flow-and-pkce) - 2022-04-30
+- [Monoliths, Microservices and Multitenancy - Software Alchemy](https://thechels.uk/monoliths,-microservices-and-multitenancy-software-alchemy) - 2022-04-30
 <!-- blog ends -->
 
 ## Status badges
