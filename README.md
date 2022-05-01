@@ -50,7 +50,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [How GitHub does take home technical interviews](https://thechels.uk/how-github-does-take-home-technical-interviews) - 2022-05-01
 - [Runbooks vs Playbooks - explaining the difference](https://thechels.uk/runbooks-vs-playbooks-explaining-the-difference) - 2022-05-01
 - [Setting Up a Custom Domain for iCloud Email - MacStories](https://thechels.uk/setting-up-a-custom-domain-for-icloud-email-macstories) - 2022-05-01
-- [What Is a High-Performing Agile Team?](https://thechels.uk/what-is-a-high-performing-agile-team) - 2022-05-01
+- [The Guide to Automating Runbook Execution](https://thechels.uk/the-guide-to-automating-runbook-execution) - 2022-05-01
 <!-- blog ends -->
 
 ## Status badges
