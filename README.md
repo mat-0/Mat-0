@@ -46,11 +46,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [A new standard of testing for Technology in government](https://thechels.uk/a-new-standard-of-testing-for-technology-in-government) - 2022-05-01
 - [Email Routing Insights](https://thechels.uk/email-routing-insights) - 2022-05-01
 - [What startup leaders need to know about OKRs](https://thechels.uk/here's-what-startup-leaders-need-to-know-about-okrs-sifted) - 2022-05-01
 - [How GitHub does take home technical interviews](https://thechels.uk/how-github-does-take-home-technical-interviews) - 2022-05-01
-- [Runbooks vs Playbooks - explaining the difference](https://thechels.uk/runbooks-vs-playbooks-explaining-the-difference) - 2022-05-01
-- [Setting Up a Custom Domain for iCloud Email - MacStories](https://thechels.uk/setting-up-a-custom-domain-for-icloud-email-macstories) - 2022-05-01
+- [Questions for the Team](https://thechels.uk/questions-for-the-team) - 2022-05-01
 <!-- blog ends -->
 
 ## Status badges
