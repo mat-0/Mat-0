@@ -47,10 +47,10 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 <!-- blog starts -->
 - [5 Signs It’s Time to Quit Your Job](https://thechels.uk/5-signs-it-s-time-to-quit-your-job) - 2022-05-02
+- [Laws of the Game](https://thechels.uk/Laws-of-the-game) - 2022-05-02
+- [Being a Tech Lead in an Empowered Product Team](https://thechels.uk/being-a-tech-lead-in-an-empowered-product-team) - 2022-05-02
 - [Charles’ Rules of Argument](https://thechels.uk/charles'-rules-of-argument) - 2022-05-02
 - [Cynefin the Four Frameworks of Portfolio Management](https://thechels.uk/cynefin-the-four-frameworks-of-portfolio-management) - 2022-05-02
-- [How 7 engineers rethought their work calendars](https://thechels.uk/how-7-engineers-rethought-their-work-calendars) - 2022-05-02
-- [How to Freaking Find Great Developers By Having Them Read Code](https://thechels.uk/how-to-freaking-find-great-developers-by-having-them-read-code) - 2022-05-02
 <!-- blog ends -->
 
 ## Status badges
