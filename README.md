@@ -6,11 +6,9 @@
 
 You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). I also love listening to podcasts so please help me find more, on the [agile software development podcasts](https://github.com/MatBenfield/agile_software_development_podcasts) repository. I am also compiling a repository of [engineering management](https://github.com/MatBenfield/engineering-management) too.
 
-[I occassionally blog here about stuff and things](https://thechels.uk).
+[I occassionally blog here about stuff and things](https://thechels.uk). It also auto generates local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python
 
-I have been playing with python, recently, and have created some twitter bots notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news)
-
-* [Morning](https://morning.thechels.uk) is a site that generates the latest news, local coronavirus stats, local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python.
+* I have been playing with python, recently, and have created some twitter bots notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news)
 * [Cheltenham open data](https://cheltenham-open-data.github.io) is an organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, where to go for lunch, and more.
 
 ## Now
@@ -59,7 +57,6 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 |--|--|--|
 | [MatBenfield](https://github.com/MatBenfield/MatBenfield) | ![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg) |
 | [thechels.uk](https://github.com/MatBenfield/thechels.uk) | ![pages-build-deployment](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg) | ![Linter](https://github.com/MatBenfield/TheChels.uk/workflows/Linter/badge.svg) |
-| [morning.thechels.uk](https://github.com/MatBenfield/morning.thechels.uk) | ![Daily Build](https://github.com/MatBenfield/morning.thechels.uk/workflows/Daily%20Build/badge.svg) <br/> ![Label Build](https://github.com/MatBenfield/morning.thechels.uk/workflows/Label%20Build/badge.svg) |![Linter](https://github.com/MatBenfield/morning.thechels.uk/workflows/Linter/badge.svg)|
 | [horofootball.thechels.uk](https://github.com/MatBenfield/horofootball.thechels.uk/) | ![Daily Build](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Linter/badge.svg) |
 
 ## GitHub Stats
