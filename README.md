@@ -46,11 +46,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [5 Signs It’s Time to Quit Your Job](https://thechels.uk/5-signs-it-s-time-to-quit-your-job) - 2022-05-02
+- [Charles’ Rules of Argument](https://thechels.uk/charles'-rules-of-argument) - 2022-05-02
 - [Cynefin the Four Frameworks of Portfolio Management](https://thechels.uk/cynefin-the-four-frameworks-of-portfolio-management) - 2022-05-02
-- [Let’s charm our teams with Charisma testing](https://thechels.uk/let-s-charm-our-teams-with-charisma-testing) - 2022-05-02
-- [OKRs and DevOps from Micromanagement Misery to Finding Flow - IT Revolution](https://thechels.uk/okrs-and-devops-from-micromanagement-misery-to-finding-flow-it-revolution) - 2022-05-02
-- [Step-up authentication with OAuth and OpenID](https://thechels.uk/step-up-authentication-with-oauth-and-openid) - 2022-05-02
-- [A new standard of testing for Technology in government](https://thechels.uk/a-new-standard-of-testing-for-technology-in-government) - 2022-05-01
+- [How 7 engineers rethought their work calendars](https://thechels.uk/how-7-engineers-rethought-their-work-calendars) - 2022-05-02
+- [How to Freaking Find Great Developers By Having Them Read Code](https://thechels.uk/how-to-freaking-find-great-developers-by-having-them-read-code) - 2022-05-02
 <!-- blog ends -->
 
 ## Status badges
