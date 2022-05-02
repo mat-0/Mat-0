@@ -48,9 +48,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 <!-- blog starts -->
 - [5 Signs It’s Time to Quit Your Job](https://thechels.uk/5-signs-it-s-time-to-quit-your-job) - 2022-05-02
 - [Laws of the Game](https://thechels.uk/Laws-of-the-game) - 2022-05-02
+- [Amazon Kindle Will Now Convert EPUB to Kindle Format](https://thechels.uk/amazon-kindle-will-now-convert-epub-to-kindle-format) - 2022-05-02
 - [Being a Tech Lead in an Empowered Product Team](https://thechels.uk/being-a-tech-lead-in-an-empowered-product-team) - 2022-05-02
 - [Charles’ Rules of Argument](https://thechels.uk/charles'-rules-of-argument) - 2022-05-02
-- [Cynefin the Four Frameworks of Portfolio Management](https://thechels.uk/cynefin-the-four-frameworks-of-portfolio-management) - 2022-05-02
 <!-- blog ends -->
 
 ## Status badges
