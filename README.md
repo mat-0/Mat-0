@@ -42,11 +42,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Collection-of-Dan-North-Posts](https://thechels.uk/Collection-of-Dan-North-Posts) - 2022-05-03
 - [20 Questions to Ask an Entrepreneur Before Joining Their Startup](https://thechels.uk/20-questions-to-ask-an-entrepreneur-before-joining-their-startup) - 2022-05-02
 - [5 Signs It’s Time to Quit Your Job](https://thechels.uk/5-signs-it-s-time-to-quit-your-job) - 2022-05-02
 - [Laws of the Game](https://thechels.uk/Laws-of-the-game) - 2022-05-02
 - [Amazon Kindle Will Now Convert EPUB to Kindle Format](https://thechels.uk/amazon-kindle-will-now-convert-epub-to-kindle-format) - 2022-05-02
-- [Becoming a Senior Software Engineer](https://thechels.uk/becoming-a-senior-software-engineer) - 2022-05-02
 <!-- blog ends -->
 
 ## Status badges
