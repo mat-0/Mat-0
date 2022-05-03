@@ -12,10 +12,9 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 
 ## Now
 
+* [now](https://thechels.uk/now)
 > Based on [the now page](https://thenow.page) and an idea by [Derek Sivers](https://sive.rs/nowff)
 
-- Run more / Eat well
-- Read backlog of Kindle books
 
 [What should I be doing next?](https://github.com/MatBenfield/MatBenfield/issues/new?assignees=MatBenfield&labels=Next&template=next.md&title=Next%3A+)
 
