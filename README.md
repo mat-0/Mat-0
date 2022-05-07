@@ -40,11 +40,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [Automatically opening issues when tracked file content changes](https://thechels.uk/automatically-opening-issues-when-tracked-file-content-changes) - 2022-05-06
-- [Here’s how to make dev productivity a top priority](https://thechels.uk/here's-how-to-make-dev-productivity-a-top-priority) - 2022-05-06
-- [How to Manage Existing Engineering Teams](https://thechels.uk/how-to-manage-existing-engineering-teams) - 2022-05-06
-- [The Not Doing List](https://thechels.uk/the-not-doing-list) - 2022-05-06
-- [Wildcard proxy for everyone](https://thechels.uk/wildcard-proxy-for-everyone) - 2022-05-06
+- [2021 Report State of Developer Relations](https://thechels.uk/2021-report-state-of-developer-relations) - 2022-05-07
+- [A Framework for Developer Relations](https://thechels.uk/a-framework-for-developer-relations) - 2022-05-07
+- [Exit Interviews Are a Trap](https://thechels.uk/exit-interviews-are-a-trap) - 2022-05-07
+- [OKR Leadership - Stop telling people what to do](https://thechels.uk/okr-leadership-stop-telling-people-what-to-do) - 2022-05-07
+- [Personal Development Plans](https://thechels.uk/personal-development-plans) - 2022-05-07
 <!-- blog ends -->
 
 ## Status badges
