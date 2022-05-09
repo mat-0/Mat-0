@@ -40,11 +40,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [How we hired more engineers faster](https://thechels.uk/how-we-hired-more-engineers-faster) - 2022-05-09
+- [Observability versus monitoring in software development](https://thechels.uk/observability-versus-monitoring-in-software-development) - 2022-05-09
+- [Threat Intelligence in the SOC - How can it help mitigate risks?](https://thechels.uk/threat-intelligence-in-the-soc-how-can-it-help-mitigate-risks) - 2022-05-09
 - [How to safely think in systems](https://thechels.uk/how-to-safely-think-in-systems) - 2022-05-08
 - [Measures of engineering impact](https://thechels.uk/measures-of-engineering-impact) - 2022-05-08
-- [Monthly Strategy Prompt Exercise](https://thechels.uk/monthly-strategy-prompt-exercise) - 2022-05-08
-- [Service cookbooks](https://thechels.uk/service-cookbooks) - 2022-05-08
-- [Should you prioritize infrastructure costs](https://thechels.uk/should-you-prioritize-infrastructure-costs) - 2022-05-08
 <!-- blog ends -->
 
 ## Status badges
