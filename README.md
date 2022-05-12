@@ -12,7 +12,7 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 
 ## Now & Next
 
-* [Now](https://thechels.uk/now) and [What should I be doing next?](https://github.com/MatBenfield/TheChels.uk/issues/new?assignees=MatBenfield&labels=Next&template=next.md&title=Next%3A+)
+* [Now](https://thechels.uk/morning) and [What should I be doing next?](https://github.com/MatBenfield/TheChels.uk/issues/new?assignees=MatBenfield&labels=Next&template=next.md&title=Next%3A+)
 > Based on [the now page](https://thenow.page) and an idea by [Derek Sivers](https://sive.rs/nowff)
 
 
