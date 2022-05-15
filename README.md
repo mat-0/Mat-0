@@ -40,11 +40,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Agile User Story Estimation](https://thechels.uk/agile-user-story-estimation) - 2022-05-15
+- [UO is just as important as UX](https://thechels.uk/uo-is-just-as-important-as-ux) - 2022-05-15
+- [Write more secure code with the OWASP Top 10 Proactive Controls](https://thechels.uk/write-more-secure-code-with-the-owasp-top-10-proactive-controls) - 2022-05-15
 - [Agile Team Tooling](https://thechels.uk/Agile-Team-Tooling) - 2022-05-13
 - [Automation is the serialization of understanding](https://thechels.uk/Automation-is-the-serialization-of-understanding) - 2022-05-12
-- [How we hired more engineers faster](https://thechels.uk/how-we-hired-more-engineers-faster) - 2022-05-09
-- [Observability versus monitoring in software development](https://thechels.uk/observability-versus-monitoring-in-software-development) - 2022-05-09
-- [Threat Intelligence in the SOC - How can it help mitigate risks?](https://thechels.uk/threat-intelligence-in-the-soc-how-can-it-help-mitigate-risks) - 2022-05-09
 <!-- blog ends -->
 
 ## Status badges
