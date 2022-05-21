@@ -34,11 +34,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [How we’re continuing to enable all developers to build](https://thechels.uk/how-we-re-continuing-to-enable-all-developers-to-build-the-github-blog) - 2022-05-20
+- [Software bill of materials - What it is and why you need one](https://thechels.uk/software-bill-of-materials-what-it-is-and-why-you-need-one) - 2022-05-20
 - [Gender pay gap at UK unicorns](https://thechels.uk/gender-pay-gap-at-uk-unicorns) - 2022-05-16
 - [Agile User Story Estimation](https://thechels.uk/agile-user-story-estimation) - 2022-05-15
 - [UO is just as important as UX](https://thechels.uk/uo-is-just-as-important-as-ux) - 2022-05-15
-- [Write more secure code with the OWASP Top 10 Proactive Controls](https://thechels.uk/write-more-secure-code-with-the-owasp-top-10-proactive-controls) - 2022-05-15
-- [Agile Team Tooling](https://thechels.uk/Agile-Team-Tooling) - 2022-05-13
 <!-- blog ends -->
 
 ## Status badges
