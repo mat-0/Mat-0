@@ -35,9 +35,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 <!-- blog starts -->
 - [Imposter Syndrome is almost universal](https://thechels.uk/Imposter-Syndrome-is-almost-universal) - 2022-06-06
 - [We need to talk](https://thechels.uk/We-need-to-talk) - 2022-06-06
+- [Dimensions of Engineering Growth](https://thechels.uk/dimensions-of-engineering-growth) - 2022-06-06
+- [Start test names with should](https://thechels.uk/start-test-names-with-should) - 2022-06-06
 - [Using a label to trigger automation with GitHub Actions](https://thechels.uk/Using-a-label-to-trigger-automation-with-GitHub-Actions) - 2022-06-04
-- [6 Steps to Ensure Cyber Resilience](https://thechels.uk/6-steps-to-ensure-cyber-resilience) - 2022-06-02
-- [Level up your link previews in Slack](https://thechels.uk/level-up-your-link-previews-in-slack) - 2022-06-02
 <!-- blog ends -->
 
 ## Status badges
