@@ -33,11 +33,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Imposter Syndrome is almost universal](https://thechels.uk/Imposter-Syndrome-is-almost-universal) - 2022-06-06
+- [We need to talk](https://thechels.uk/We-need-to-talk) - 2022-06-06
 - [Using a label to trigger automation with GitHub Actions](https://thechels.uk/Using-a-label-to-trigger-automation-with-GitHub-Actions) - 2022-06-04
 - [6 Steps to Ensure Cyber Resilience](https://thechels.uk/6-steps-to-ensure-cyber-resilience) - 2022-06-02
 - [Level up your link previews in Slack](https://thechels.uk/level-up-your-link-previews-in-slack) - 2022-06-02
-- [Handling Defects](https://thechels.uk/handling-defects) - 2022-05-27
-- [Keeping a digital book library](https://thechels.uk/Keeping-a-digital-book-library) - 2022-05-23
 <!-- blog ends -->
 
 ## Status badges
