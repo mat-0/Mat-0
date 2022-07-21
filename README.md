@@ -33,11 +33,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [60 per cent of Brits on £80,000-100,000 say they’re about average](https://thechels.uk/60-per-cent-of-brits-on-80,000-100,000-say-they-re-about-average) - 2022-07-21
+- [Seccl hires Adam Jones as CTO](https://thechels.uk/seccl-hires-adam-jones-as-cto) - 2022-07-21
 - [Career checkup template](https://thechels.uk/career-checkup-template) - 2022-06-12
 - [Contractions can lead to an increase in the mental effort required to read them](https://thechels.uk/Contractions-can-lead-to-an-increase-in-the-mental-effort-required-to-read-them) - 2022-06-07
 - [Retry patterns](https://thechels.uk/retry-patterns) - 2022-06-07
-- [Imposter Syndrome is almost universal](https://thechels.uk/Imposter-Syndrome-is-almost-universal) - 2022-06-06
-- [We need to talk](https://thechels.uk/We-need-to-talk) - 2022-06-06
 <!-- blog ends -->
 
 ## Status badges
