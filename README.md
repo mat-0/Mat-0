@@ -6,7 +6,7 @@
 
 
 * [I occassionally blog here about stuff and things](https://thechels.uk). It also auto generates local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python
-* I have been playing with python, recently, and have created some twitter bots, most notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news)
+* I have created some twitter bots, most notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and others that are now resting.
 * [Cheltenham open data](https://cheltenham-open-data.github.io) is an organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, where to go for lunch, and more.
 
 ## Repository naming convention
