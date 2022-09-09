@@ -31,11 +31,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Incident Response - How to Prevent and Respond to Data Breaches](https://thechels.uk/incident-response-how-to-prevent-and-respond-to-data-breaches) - 2022-09-09
+- [Sign your Git commits with 1Password](https://thechels.uk/sign-your-git-commits-with-1password) - 2022-09-09
+- [UK labour market report - a dangerous game of chicken with pay rises](https://thechels.uk/uk-labour-market-report-a-dangerous-game-of-chicken-with-pay-rises) - 2022-09-09
 - [Free share offer](https://thechels.uk/free-share-offer) - 2022-09-03
 - [5 simple things you can do with GitHub Packages to level up your workflows](https://thechels.uk/5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows) - 2022-08-08
-- [EP17 - Design patterns cheat sheet](https://thechels.uk/ep17-design-patterns-cheat-sheet) - 2022-08-08
-- [Terraform Modules - Create Reusable Infrastructure As Code](https://thechels.uk/terraform-modules-create-reusable-infrastructure-as-code) - 2022-08-08
-- [6 strategic ways to level up your CI/CD pipeline](https://thechels.uk/6-strategic-ways-to-level-up-your-ci-cd-pipeline) - 2022-07-24
 <!-- blog ends -->
 
 ## Status badges
