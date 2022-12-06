@@ -31,11 +31,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [One Thing Well](https://thechels.uk/One-Thing-Well) - 2022-12-06
 - [Offers, free money ,and bonuses](https://thechels.uk/Offers,-free-money-,and-bonuses) - 2022-11-06
 - [Reverse Job Apply for Software Engineers](https://thechels.uk/reverse-job-apply-for-software-engineers) - 2022-10-05
 - [1Password Research Reveals the Risks of Login Fatigue](https://thechels.uk/1password-research-reveals-the-risks-of-login-fatigue) - 2022-09-17
 - [Novia launches drip feed pension drawdown and new faster trade cycles](https://thechels.uk/novia-launches-drip-feed-pension-drawdown-and-new-faster-trade-cycles) - 2022-09-17
-- [Some ways to get better at debugging](https://thechels.uk/some-ways-to-get-better-at-debugging) - 2022-09-17
 <!-- blog ends -->
 
 ## Status badges
