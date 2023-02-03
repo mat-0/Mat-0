@@ -23,10 +23,8 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Find me around the web
 
 - [Blog](https://thechels.uk)
-- [LinkedIn](https://www.linkedin.com/in/mat-benfield/)
 - [MeetUp](https://www.meetup.com/members/197754442/)
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
-- [Twitter](https://twitter.com/tocfcws)
 
 ## Latest posts
 
