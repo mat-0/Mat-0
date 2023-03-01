@@ -29,11 +29,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [](https://thechels.uk/2023-03-01-fail-fast,-move-on-what-to-do-with-a-players) - 2023-03-01
+- [Books – Building Customer Driven SaaS Products](https://thechels.uk/books-building-customer-driven-saas-products) - 2023-03-01
+- [How to start using reusable workflows with GitHub Actions](https://thechels.uk/how-to-start-using-reusable-workflows-with-github-actions) - 2023-03-01
 - [100 ways to improve your life](https://thechels.uk/100-ways-to-improve-your-life-without) - 2022-12-10
 - [Using Datadog and Terraform for advanced monitoring as code](https://thechels.uk/using-datadog-and-terraform-for-advanced-monitoring-as-code) - 2022-12-10
-- [One Thing Well](https://thechels.uk/One-Thing-Well) - 2022-12-06
-- [Offers, free money ,and bonuses](https://thechels.uk/Offers,-free-money-,and-bonuses) - 2022-11-06
-- [Reverse Job Apply for Software Engineers](https://thechels.uk/reverse-job-apply-for-software-engineers) - 2022-10-05
 <!-- blog ends -->
 
 ## Status badges
