@@ -29,7 +29,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [](https://thechels.uk/2023-03-01-fail-fast,-move-on-what-to-do-with-a-players) - 2023-03-01
+- [](https://thechels.uk/2023-03-01-fail-fast,-move-on-what-to-do-with-a-players) - 2023-03-02
 - [Books – Building Customer Driven SaaS Products](https://thechels.uk/books-building-customer-driven-saas-products) - 2023-03-01
 - [How to start using reusable workflows with GitHub Actions](https://thechels.uk/how-to-start-using-reusable-workflows-with-github-actions) - 2023-03-01
 - [100 ways to improve your life](https://thechels.uk/100-ways-to-improve-your-life-without) - 2022-12-10
