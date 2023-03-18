@@ -30,10 +30,10 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 <!-- blog starts -->
 - [](https://thechels.uk/2023-03-01-fail-fast,-move-on-what-to-do-with-a-players) - 2023-03-18
+- [A day in the life of a GDS Site Reliability Engineer (SRE)](https://thechels.uk/a-day-in-the-life-of-a-gds-site-reliability-engineer-(sre)) - 2023-03-18
+- [Rules for getting production access](https://thechels.uk/rules-for-getting-production-access) - 2023-03-18
 - [Books – Building Customer Driven SaaS Products](https://thechels.uk/books-building-customer-driven-saas-products) - 2023-03-01
 - [How to start using reusable workflows with GitHub Actions](https://thechels.uk/how-to-start-using-reusable-workflows-with-github-actions) - 2023-03-01
-- [100 ways to improve your life](https://thechels.uk/100-ways-to-improve-your-life-without) - 2022-12-10
-- [Using Datadog and Terraform for advanced monitoring as code](https://thechels.uk/using-datadog-and-terraform-for-advanced-monitoring-as-code) - 2022-12-10
 <!-- blog ends -->
 
 ## Status badges
