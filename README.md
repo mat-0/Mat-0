@@ -31,7 +31,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 <!-- blog starts -->
 - [](https://thechels.uk/2023-03-01-fail-fast,-move-on-what-to-do-with-a-players) - 2023-04-05
 - [5 reasons why developers love 1Password](https://thechels.uk/5-reasons-why-developers-love-1password) - 2023-04-05
-- [How 1Password and SSO fit together – and what comes next](https://thechels.uk/how-1password-and-sso-fit-together-and-what-comes-next) - 2023-04-05
+- [How 1Password and SSO fit together and what comes next](https://thechels.uk/how-1password-and-sso-fit-together-and-what-comes-next) - 2023-04-05
 - [How Uber is Measuring Engineering Productivity](https://thechels.uk/how-uber-is-measuring-engineering-productivity) - 2023-04-05
 - [A day in the life of a GDS Site Reliability Engineer (SRE)](https://thechels.uk/a-day-in-the-life-of-a-gds-site-reliability-engineer-(sre)) - 2023-03-18
 <!-- blog ends -->
