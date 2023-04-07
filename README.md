@@ -29,11 +29,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [24 Startup CTO Interview Questions](https://thechels.uk/24-startup-cto-interview-questions) - 2023-04-07
 - [5 tips for prioritizing Dependabot alerts](https://thechels.uk/5-tips-for-prioritizing-dependabot-alerts) - 2023-04-07
 - [Cyberattack sees Australian fintech take itself offline](https://thechels.uk/cyberattack-sees-australian-fintech-take-itself-offline) - 2023-04-07
 - [DevOps vs. SRE vs. Platform Engineering - by Alex Xu](https://thechels.uk/devops-vs.-sre-vs.-platform-engineering-by-alex-xu) - 2023-04-07
 - [How to mitigate OWASP vulnerabilities while staying in the flow](https://thechels.uk/how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow) - 2023-04-07
-- [Now in Beta - Securely Automate Secrets with Service Accounts](https://thechels.uk/now-in-beta-securely-automate-secrets-with-service-accounts) - 2023-04-07
 <!-- blog ends -->
 
 ## Status badges
