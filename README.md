@@ -29,11 +29,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [5 reasons why developers love 1Password](https://thechels.uk/5-reasons-why-developers-love-1password) - 2023-04-05
-- [How 1Password and SSO fit together and what comes next](https://thechels.uk/how-1password-and-sso-fit-together-and-what-comes-next) - 2023-04-05
-- [How Uber is Measuring Engineering Productivity](https://thechels.uk/how-uber-is-measuring-engineering-productivity) - 2023-04-05
-- [A day in the life of a GDS Site Reliability Engineer (SRE)](https://thechels.uk/a-day-in-the-life-of-a-gds-site-reliability-engineer-(sre)) - 2023-03-18
-- [Rules for getting production access](https://thechels.uk/rules-for-getting-production-access) - 2023-03-18
+- [5 tips for prioritizing Dependabot alerts](https://thechels.uk/5-tips-for-prioritizing-dependabot-alerts) - 2023-04-07
+- [Cyberattack sees Australian fintech take itself offline](https://thechels.uk/cyberattack-sees-australian-fintech-take-itself-offline) - 2023-04-07
+- [DevOps vs. SRE vs. Platform Engineering - by Alex Xu](https://thechels.uk/devops-vs.-sre-vs.-platform-engineering-by-alex-xu) - 2023-04-07
+- [How to mitigate OWASP vulnerabilities while staying in the flow](https://thechels.uk/how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow) - 2023-04-07
+- [Now in Beta - Securely Automate Secrets with Service Accounts](https://thechels.uk/now-in-beta-securely-automate-secrets-with-service-accounts) - 2023-04-07
 <!-- blog ends -->
 
 ## Status badges
