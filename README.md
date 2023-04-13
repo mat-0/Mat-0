@@ -29,11 +29,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [24 Startup CTO Interview Questions](https://thechels.uk/24-startup-cto-interview-questions) - 2023-04-07
-- [5 tips for prioritizing Dependabot alerts](https://thechels.uk/5-tips-for-prioritizing-dependabot-alerts) - 2023-04-07
-- [Cyberattack sees Australian fintech take itself offline](https://thechels.uk/cyberattack-sees-australian-fintech-take-itself-offline) - 2023-04-07
-- [DevOps vs. SRE vs. Platform Engineering - by Alex Xu](https://thechels.uk/devops-vs.-sre-vs.-platform-engineering-by-alex-xu) - 2023-04-07
-- [How to mitigate OWASP vulnerabilities while staying in the flow](https://thechels.uk/how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow) - 2023-04-07
+- [3 ways to meet compliance needs without slowing down agility](https://thechels.uk/3-ways-to-meet-compliance-needs-without-slowing-down-agility) - 2023-04-13
+- [Building organization-wide governance and re-use for CI/CD and automation with GitHub Actions](https://thechels.uk/building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions) - 2023-04-13
+- [Performance Seasons Are Useless — Use Anniversary Reviews Instead](https://thechels.uk/performance-seasons-are-useless-use-anniversary-reviews-instead) - 2023-04-13
+- [Post-interview recommendations - a case against ‘maybe’](https://thechels.uk/post-interview-recommendations-a-case-against-'maybe') - 2023-04-13
+- [What should you do if you report to an underperforming executive?](https://thechels.uk/underperforming-exec) - 2023-04-13
 <!-- blog ends -->
 
 ## Status badges
