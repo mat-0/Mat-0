@@ -29,11 +29,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Deleted Reddit account](https://thechels.uk/deleted-reddit-account) - 2023-06-17
 - [Curated interview process](https://thechels.uk/curated-interview-process) - 2023-05-23
 - [12 QA Interview questions](https://thechels.uk/12-qa-interview-questions) - 2023-04-14
 - [3 ways to meet compliance needs without slowing down agility](https://thechels.uk/3-ways-to-meet-compliance-needs-without-slowing-down-agility) - 2023-04-13
 - [Building organization-wide governance and re-use for CI-CD and automation with GitHub Actions](https://thechels.uk/building-org-gov-cicd) - 2023-04-13
-- [Performance Seasons Are Useless — Use Anniversary Reviews Instead](https://thechels.uk/performance-seasons-are-useless-use-anniversary-reviews-instead) - 2023-04-13
 <!-- blog ends -->
 
 ## Status badges
