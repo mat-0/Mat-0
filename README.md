@@ -24,7 +24,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 - [Blog](https://thechels.uk)
 - [MeetUp](https://www.meetup.com/members/197754442/)
-- [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield?tab=topactivity)
+
 
 ## Latest posts
 
