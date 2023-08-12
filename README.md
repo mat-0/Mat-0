@@ -29,11 +29,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [A Beginners Guide to API Testing](https://thechels.uk/a-beginners-guide-to-api-testing) - 2023-08-12
 - [Gloucester council data breach](https://thechels.uk/gloucester-council-data-breach-criminals) - 2023-08-12
 - [Small pension pots to be consolidated says DWP](https://thechels.uk/small-pension-pots-to-be-consolidated-says-dwp) - 2023-08-12
 - [Fix volume control on Apple TV](https://thechels.uk/fix-volume-control-on-apple-tv) - 2023-07-14
 - [Offshore fund used by Roman](https://thechels.uk/offshore-fund-used-by-roman) - 2023-07-14
-- [10 Money Rules for Everyone](https://thechels.uk/10-money-rules-for-everyone) - 2023-07-13
 <!-- blog ends -->
 
 ## Status badges
