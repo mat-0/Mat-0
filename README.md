@@ -20,12 +20,6 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - Twitter bots are prefix with `bot_`.
 - Standard repositories are named as they are, sometimes this might be a domain name e.g `thechels.uk`.
 
-## Find me around the web
-
-- [Blog](https://thechels.uk)
-- [MeetUp](https://www.meetup.com/members/197754442/)
-
-
 ## Latest posts
 
 <!-- blog starts -->
