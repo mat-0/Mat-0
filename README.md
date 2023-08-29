@@ -37,7 +37,3 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 | [MatBenfield](https://github.com/MatBenfield/MatBenfield) | ![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg) |
 | [thechels.uk](https://github.com/MatBenfield/thechels.uk) | ![pages-build-deployment](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg) | ![Linter](https://github.com/MatBenfield/TheChels.uk/workflows/Linter/badge.svg) |
 | [horofootball.thechels.uk](https://github.com/MatBenfield/horofootball.thechels.uk/) | ![Daily Build](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Linter/badge.svg) |
-
-## GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Mat-0&show_icons=true)
