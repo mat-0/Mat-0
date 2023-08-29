@@ -29,11 +29,3 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Fix volume control on Apple TV](https://thechels.uk/fix-volume-control-on-apple-tv) - 2023-07-14
 - [Offshore fund used by Roman](https://thechels.uk/offshore-fund-used-by-roman) - 2023-07-14
 <!-- blog ends -->
-
-## Status badges
-
-| Repo | Builds | Linter |
-|--|--|--|
-| [MatBenfield](https://github.com/MatBenfield/MatBenfield) | ![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg) |
-| [thechels.uk](https://github.com/MatBenfield/thechels.uk) | ![pages-build-deployment](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg) | ![Linter](https://github.com/MatBenfield/TheChels.uk/workflows/Linter/badge.svg) |
-| [horofootball.thechels.uk](https://github.com/MatBenfield/horofootball.thechels.uk/) | ![Daily Build](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Daily%20Build/badge.svg) | ![Linter](https://github.com/MatBenfield/horofootball.thechels.uk/workflows/Linter/badge.svg) |
