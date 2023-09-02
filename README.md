@@ -23,9 +23,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Golf joke](https://thechels.uk/golf-joke) - 2023-09-02
+- [Priority Quote](https://thechels.uk/priority-quote) - 2023-09-02
 - [A Beginners Guide to API Testing](https://thechels.uk/a-beginners-guide-to-api-testing) - 2023-08-12
 - [Gloucester council data breach](https://thechels.uk/gloucester-council-data-breach-criminals) - 2023-08-12
 - [Small pension pots to be consolidated says DWP](https://thechels.uk/small-pension-pots-to-be-consolidated-says-dwp) - 2023-08-12
-- [Fix volume control on Apple TV](https://thechels.uk/fix-volume-control-on-apple-tv) - 2023-07-14
-- [Offshore fund used by Roman](https://thechels.uk/offshore-fund-used-by-roman) - 2023-07-14
 <!-- blog ends -->
