@@ -5,9 +5,7 @@
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
 
 
-* [I occassionally blog here about stuff and things](https://thechels.uk). It also auto generates local weather, football fixtures, and latest stock prices as part of my morning routine. Built using github-actions, APIs, and python
-* I have created some twitter bots, most notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and others that are now resting.
-* [Cheltenham open data](https://cheltenham-open-data.github.io) is an organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, where to go for lunch, and more.
+* [I occassionally blog here about stuff and things](https://thechels.uk). 
 
 ## Repository naming convention
 
