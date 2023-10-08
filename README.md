@@ -21,9 +21,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Learn and Test DMARC](https://thechels.uk/learn-and-test-dmarc) - 2023-10-08
 - [Teams spend 44 percent more time on new work](https://thechels.uk/teams-spend-44-percent-more-time-on-new-work) - 2023-09-13
 - [Competence Quote](https://thechels.uk/competence-quote) - 2023-09-03
 - [Donner Dinner Party Game](https://thechels.uk/donner-dinner-party-game) - 2023-09-03
 - [Job titles by age](https://thechels.uk/job-titles-by-age) - 2023-09-03
-- [Recipe - Lentil Bolognese](https://thechels.uk/recipe-lentil-bolognese) - 2023-09-03
 <!-- blog ends -->
