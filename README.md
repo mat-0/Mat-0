@@ -1,11 +1,8 @@
 # Hi, I'm Mat
 
-![Daily Build](https://github.com/MatBenfield/MatBenfield/workflows/Daily%20Build/badge.svg) ![Linter](https://github.com/MatBenfield/MatBenfield/workflows/Linter/badge.svg)
+![Daily Build](https://github.com/mat-0/mat-0/workflows/Daily%20Build/badge.svg) ![Linter](https://github.com/mat-0/mat-0/workflows/Linter/badge.svg)
 
-![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
-
-
-* [I occassionally blog here about stuff and things](https://thechels.uk). 
+![banner photo of Mat running in London](https://raw.githubusercontent.com/mat-0/mat-0/master/images/gh-header-image-cropped.jpg)
 
 ## Repository naming convention
 
