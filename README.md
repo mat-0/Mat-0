@@ -18,9 +18,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [podcast app Castro may be dying](https://thechels.uk/podcast-app-castro-may-be-dying) - 2023-11-30
 - [This morning in my work email](https://thechels.uk/this-morning-in-my-work-email) - 2023-11-13
 - [Candidate Interview questions](https://thechels.uk/candidate-interview-questions) - 2023-11-01
 - [YouTube is getting serious about blocking ad blockers](https://thechels.uk/youtube-is-getting-serious-about-blocking-ad-blockers) - 2023-10-31
 - [Do one small high quality thing](https://thechels.uk/do-one-small-high-quality-thing) - 2023-10-21
-- [The Worst Programmer I Know](https://thechels.uk/the-worst-programmer-i-know) - 2023-10-13
 <!-- blog ends -->
