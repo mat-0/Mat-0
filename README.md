@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Canon TDD - by Kent Beck](https://thechels.uk/canon-tdd-by-kent-beck) - 2023-12-17
 - [Zwift Annual Memberships](https://thechels.uk/zwift-annual-memberships) - 2023-12-06
 - [More news on Castro.](https://thechels.uk/more-news-on-castro.) - 2023-12-02
 - [Podcast app Castro may be dying](https://thechels.uk/podcast-app-castro-may-be-dying) - 2023-11-30
 - [This morning in my work email](https://thechels.uk/this-morning-in-my-work-email) - 2023-11-13
-- [Candidate Interview questions](https://thechels.uk/candidate-interview-questions) - 2023-11-01
 <!-- blog ends -->
