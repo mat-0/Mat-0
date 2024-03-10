@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Managing Technical Debt](https://thechels.uk/managing-technical-debt) - 2024-03-10
 - [Observations of Leadership](https://thechels.uk/observations-of-leadership) - 2024-03-10
 - [2024-03 Mix Tape](https://thechels.uk/2024-03-apple-music-mix-tape) - 2024-03-07
 - [Values](https://thechels.uk/values) - 2024-02-29
 - [Canon TDD - by Kent Beck](https://thechels.uk/canon-tdd-by-kent-beck) - 2023-12-17
-- [Zwift Annual Memberships](https://thechels.uk/zwift-annual-memberships) - 2023-12-06
 <!-- blog ends -->
