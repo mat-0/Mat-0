@@ -20,7 +20,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [2024 04 Mix Tape](https://thechels.uk/2024-04-mix-tape) - 2024-04-01
+- [2024-04 Mix Tape](https://thechels.uk/2024-04-mix-tape) - 2024-04-01
 - [Jokes about Job Searching](https://thechels.uk/job-jokes) - 2024-03-27
 - [Azure Charts](https://thechels.uk/Azure-Charts) - 2024-03-12
 - [Managing Technical Debt](https://thechels.uk/managing-technical-debt) - 2024-03-10
