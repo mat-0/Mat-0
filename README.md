@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Castro new pricing under new ownership](https://thechels.uk/castro-new-pricing-under-new-ownership) - 2024-05-07
+- [Finding an ISDN in Drafts](https://thechels.uk/finding-an-isdn-in-drafts) - 2024-05-07
 - [Jokes about Job Searching](https://thechels.uk/job-jokes) - 2024-03-27
 - [Azure Charts](https://thechels.uk/Azure-Charts) - 2024-03-12
 - [Managing Technical Debt](https://thechels.uk/managing-technical-debt) - 2024-03-10
-- [Observations of Leadership](https://thechels.uk/observations-of-leadership) - 2024-03-10
-- [Values](https://thechels.uk/values) - 2024-02-29
 <!-- blog ends -->
