@@ -1,6 +1,6 @@
 # Hi, I'm Mat
 
-![Daily Build](https://github.com/mat-0/mat-0/workflows/Daily%20Build/badge.svg) ![Linter](https://github.com/mat-0/mat-0/workflows/Linter/badge.svg)
+![Daily Build](https://github.com/mat-0/mat-0/workflows/Daily%20Build/badge.svg)
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/mat-0/mat-0/master/images/gh-header-image-cropped.jpg)
 
@@ -9,12 +9,12 @@
 Repositories, where possible, are lowercase with underscores and follow the naming conventions below. 
 
   
-- Demonstrations or proof of concepts use the format `demo_name`.
+- For demonstrations or proof of concepts, use the format `demo_name`.
 - Boilerplate or templates are named in the format `template_name`.
-  - where appropriate these are also published through github pages and will be available at `username.github.io/repo_name`.
-- WordPress related content (mostly plugins) are all prefixed with `wp_`.
-- Twitter bots are prefix with `bot_`.
-- Standard repositories are named as they are, sometimes this might be a domain name e.g `thechels.uk`.
+  - where appropriate these are also published through GitHub pages and will be available at `username.github.io/repo_name`.
+- WordPress-related content (mostly plugins) are prefixed with `wp_`.
+- Twitter bots are prefixed with `bot_`.
+- Standard repositories are named as they are, sometimes this might be a domain name e.g. `thechels.uk`.
 </details>
 
 ## Latest posts
