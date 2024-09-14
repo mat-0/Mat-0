@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Become the engineer everyone wants to work with](https://thechels.uk/everyone-wants-to-work-with) - 2024-09-14
+- [How to Get Started using gov uk Forms](https://thechels.uk/getting-started-with-govuk-forms) - 2024-09-14
+- [In Praise of Small Pull Requests](https://thechels.uk/in-praise-of-small-pull-requests) - 2024-09-14
 - [11 ways to get better feedback from your manager](https://thechels.uk/11-ways-to-get-better-feedback-from-your-manager) - 2024-05-08
 - [How to share your point of view even if you are afraid of being wrong](https://thechels.uk/how-to-share-your-point-of-view-even-if-you-are-afraid-of-being-wrong) - 2024-05-08
-- [Printing music with CSS Grid](https://thechels.uk/printing-music-with-css-grid) - 2024-05-08
-- [Castro new pricing under new ownership](https://thechels.uk/castro-new-pricing-under-new-ownership) - 2024-05-07
-- [Finding an ISDN in Drafts](https://thechels.uk/finding-an-isdn-in-drafts) - 2024-05-07
 <!-- blog ends -->
