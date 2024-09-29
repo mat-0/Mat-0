@@ -21,8 +21,8 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 <!-- blog starts -->
 - [Women’s super league broadcasting](https://thechels.uk/Womens-super-league-broadcasting) - 2024-09-29
+- [Apple silicon Mac mini 5 port](https://thechels.uk/apple-silicon-mac-mini-5-port) - 2024-09-29
+- [Apple Watch Sleep Apnea Detection Feature Now Available](https://thechels.uk/apple-watch-sleep-apnea-detection-feature-now-available) - 2024-09-29
+- [Castro Podcast app is back](https://thechels.uk/castro-podcast-app-is-back) - 2024-09-29
 - [If you use JavaScript](https://thechels.uk/if-you-use-javascript) - 2024-09-29
-- [Team Spoons](https://thechels.uk/team-spoons) - 2024-09-17
-- [WhatsApp channel‎](https://thechels.uk/whatsapp-channel) - 2024-09-17
-- [Become the engineer everyone wants to work with](https://thechels.uk/everyone-wants-to-work-with) - 2024-09-14
 <!-- blog ends -->
