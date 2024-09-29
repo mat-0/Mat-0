@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Women’s super league broadcasting](https://thechels.uk/Women's-super-league-broadcasting) - 2024-09-29
 - [Team Spoons](https://thechels.uk/team-spoons) - 2024-09-17
 - [WhatsApp channel‎](https://thechels.uk/whatsapp-channel) - 2024-09-17
 - [Become the engineer everyone wants to work with](https://thechels.uk/everyone-wants-to-work-with) - 2024-09-14
 - [How to Get Started using gov uk Forms](https://thechels.uk/getting-started-with-govuk-forms) - 2024-09-14
-- [In Praise of Small Pull Requests](https://thechels.uk/in-praise-of-small-pull-requests) - 2024-09-14
 <!-- blog ends -->
