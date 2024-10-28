@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Apple Passwords Generated Strong Password Format](https://thechels.uk/apple-passwords-generated-strong-password-format) - 2024-10-28
+- [Extra £100m bill for state pension rise next year](https://thechels.uk/extra-100m-bill-for-state-pension-rise-next-year) - 2024-10-28
+- [Microsoft Teams is getting threads and combined chats and channels](https://thechels.uk/microsoft-teams-is-getting-threads-and-combined-chats-and-channels) - 2024-10-28
+- [Pension transfer times at lowest since pandemic](https://thechels.uk/pension-transfer-times-at-lowest-since-pandemic) - 2024-10-28
 - [Owner of Wordpress counting lines of code - Oops](https://thechels.uk/owner-of-wordpress-counting-lines-of-code-oops) - 2024-10-14
-- [Women’s super league broadcasting](https://thechels.uk/Womens-super-league-broadcasting) - 2024-09-29
-- [Apple silicon Mac mini 5 port](https://thechels.uk/apple-silicon-mac-mini-5-port) - 2024-09-29
-- [Apple Watch Sleep Apnea Detection Feature Now Available](https://thechels.uk/apple-watch-sleep-apnea-detection-feature-now-available) - 2024-09-29
-- [Castro Podcast app is back](https://thechels.uk/castro-podcast-app-is-back) - 2024-09-29
 <!-- blog ends -->
