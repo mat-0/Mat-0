@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Interviewing for Evidence](https://thechels.uk/interviewing-for-evidence) - 2024-10-31
 - [Apple Passwords Generated Strong Password Format](https://thechels.uk/apple-passwords-generated-strong-password-format) - 2024-10-28
 - [Extra £100m bill for state pension rise next year](https://thechels.uk/extra-100m-bill-for-state-pension-rise-next-year) - 2024-10-28
 - [Microsoft Teams is getting threads and combined chats and channels](https://thechels.uk/microsoft-teams-is-getting-threads-and-combined-chats-and-channels) - 2024-10-28
 - [Pension transfer times at lowest since pandemic](https://thechels.uk/pension-transfer-times-at-lowest-since-pandemic) - 2024-10-28
-- [Owner of Wordpress counting lines of code - Oops](https://thechels.uk/owner-of-wordpress-counting-lines-of-code-oops) - 2024-10-14
 <!-- blog ends -->
