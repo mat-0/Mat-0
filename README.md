@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Mastery](https://thechels.uk/mastery) - 2024-11-10
 - [SMURF Beyond the Test Pyramid](https://thechels.uk/smurf-beyond-the-test-pyramid) - 2024-11-09
 - [GOVForms in motion](https://thechels.uk/govforms-in-motion) - 2024-11-07
 - [A manifesto for Human-Centric Engineering](https://thechels.uk/a-manifesto-for-human-centric-engineering) - 2024-11-01
 - [Four things I learned from coaching that made me a better leader](https://thechels.uk/four-things-i-learned-from-coaching-that-made-me-a-better-leader) - 2024-11-01
-- [Interviewing for Evidence](https://thechels.uk/interviewing-for-evidence) - 2024-10-31
 <!-- blog ends -->
