@@ -7,7 +7,7 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v4
     - name: Set up Python
-      uses: actions/setup-python@v5.2.0
+      uses: actions/setup-python@v5.3.0
       with:
         python-version: 3.8
     - uses: actions/cache@v4
