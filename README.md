@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Finally](https://thechels.uk/finally) - 2024-12-13
+- [Measuring developer experience - theory of improvement.](https://thechels.uk/measuring-developer-experience-theory-of-improvement.) - 2024-12-13
 - [Bad Booking UX](https://thechels.uk/bad-booking-ux) - 2024-11-17
 - [Team Work](https://thechels.uk/team-work) - 2024-11-16
 - [Mastery](https://thechels.uk/mastery) - 2024-11-10
-- [SMURF Beyond the Test Pyramid](https://thechels.uk/smurf-beyond-the-test-pyramid) - 2024-11-09
-- [GOVForms in motion](https://thechels.uk/govforms-in-motion) - 2024-11-07
 <!-- blog ends -->
