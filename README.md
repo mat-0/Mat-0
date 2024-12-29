@@ -21,8 +21,8 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 <!-- blog starts -->
 - [A new free tier for GitHub Copilot in VS Code](https://thechels.uk/a-new-free-tier-for-github-copilot-in-vs-code) - 2024-12-29
+- [Accessibility posts at Smashing Magazine](https://thechels.uk/accessibility-posts-at-smashing-magazine) - 2024-12-29
 - [Make the state more like a start up](https://thechels.uk/make-the-state-more-like-a-start-up) - 2024-12-29
 - [Fixing DNS and MX records with Cybaa](https://thechels.uk/cybaa) - 2024-12-20
 - [Finally](https://thechels.uk/finally) - 2024-12-13
-- [Measuring developer experience - theory of improvement](https://thechels.uk/measuring-developer-experience-theory-of-improvement) - 2024-12-13
 <!-- blog ends -->
