@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Budgetary ideas for 2025](https://thechels.uk/budgetary-ideas-for-2025) - 2025-01-04
 - [Picks of the year 2024](https://thechels.uk/picks-of-the-year-2024) - 2025-01-01
 - [A new free tier for GitHub Copilot in VS Code](https://thechels.uk/a-new-free-tier-for-github-copilot-in-vs-code) - 2024-12-29
 - [Accessibility posts at Smashing Magazine](https://thechels.uk/accessibility-posts-at-smashing-magazine) - 2024-12-29
 - [Make the state more like a start up](https://thechels.uk/make-the-state-more-like-a-start-up) - 2024-12-29
-- [Fixing DNS and MX records with Cybaa](https://thechels.uk/cybaa) - 2024-12-20
 <!-- blog ends -->
