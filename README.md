@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [What does your manager really mean?](https://thechels.uk/what-does-your-manager-think) - 2025-01-07
 - [Magic Links and Passkeys](https://thechels.uk/magic-links-passkeys) - 2025-01-06
 - [Going Greener](https://thechels.uk/going-greener) - 2025-01-05
 - [Olio](https://thechels.uk/olio) - 2025-01-05
 - [Stench of Musk](https://thechels.uk/stench-of-musk) - 2025-01-05
-- [Budgetary ideas for 2025](https://thechels.uk/budgetary-ideas-for-2025) - 2025-01-04
 <!-- blog ends -->
