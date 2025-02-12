@@ -20,7 +20,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [Newman List](https://thechels.uk/newman-list) - 2025-02-11
+- [The Newman List](https://thechels.uk/newman-list) - 2025-02-11
 - [How To Create Your Own Luck](https://thechels.uk/how-to-create-your-own-luck) - 2025-02-10
 - [Introducing slash green](https://thechels.uk/introducing-slash-green) - 2025-02-10
 - [K is for K.I.S.S.](https://thechels.uk/k-is-for-k.i.s.s.) - 2025-02-10
