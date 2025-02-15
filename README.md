@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Better by next Friday](https://thechels.uk/better-by-next-friday) - 2025-02-15
 - [Heat Death of the Internet](https://thechels.uk/heat-death-of-the-internet) - 2025-02-15
+- [Measure team health with Petals](https://thechels.uk/measure-team-health-with-petals) - 2025-02-15
+- [Netflix and Apple TV](https://thechels.uk/netflix-and-apple-tv) - 2025-02-15
 - [The Newman List](https://thechels.uk/newman-list) - 2025-02-11
-- [How To Create Your Own Luck](https://thechels.uk/how-to-create-your-own-luck) - 2025-02-10
-- [Introducing slash green](https://thechels.uk/introducing-slash-green) - 2025-02-10
-- [K is for K.I.S.S.](https://thechels.uk/k-is-for-k.i.s.s.) - 2025-02-10
 <!-- blog ends -->
