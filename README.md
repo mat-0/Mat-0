@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [SBIR Framework for giving positive feedback](https://thechels.uk/SBIR-framework-feedback-copy) - 2025-02-17
+- [Navigating difficult conversations at work](https://thechels.uk/difficult-conversations-at-work) - 2025-02-17
+- [The Discovery Questionnaire](https://thechels.uk/discovery-questionnaire) - 2025-02-17
+- [Monkey Management](https://thechels.uk/monkey-management-copy) - 2025-02-17
 - [BICEP core needs](https://thechels.uk/bicep-core-needs) - 2025-02-16
-- [BLUF standard](https://thechels.uk/bluf-standard) - 2025-02-16
-- [Energy Investment Model](https://thechels.uk/energy-investment-model) - 2025-02-16
-- [First one-to-one](https://thechels.uk/first-one-to-one) - 2025-02-16
-- [GOOD one-to-one template](https://thechels.uk/good-one-to-one-template) - 2025-02-16
 <!-- blog ends -->
