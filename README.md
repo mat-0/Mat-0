@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [SBIR Framework for giving positive feedback](https://thechels.uk/SBIR-framework-feedback-copy) - 2025-02-17
-- [Navigating difficult conversations at work](https://thechels.uk/difficult-conversations-at-work) - 2025-02-17
-- [The Discovery Questionnaire](https://thechels.uk/discovery-questionnaire) - 2025-02-17
-- [Monkey Management](https://thechels.uk/monkey-management-copy) - 2025-02-17
-- [BICEP core needs](https://thechels.uk/bicep-core-needs) - 2025-02-16
+- [Confidence and Competence](https://thechels.uk/confidence-and-competence) - 2025-02-18
+- [Dreyfus Model](https://thechels.uk/dreyfus-model) - 2025-02-18
+- [Five step coaching habit](https://thechels.uk/five-step-coaching-habit) - 2025-02-18
+- [Four Fixations of a Brilliant Leader](https://thechels.uk/four-fixations-of-a-brilliant-leader) - 2025-02-18
+- [Four habits that derail listening](https://thechels.uk/four-habits-that-derail-listening) - 2025-02-18
 <!-- blog ends -->
