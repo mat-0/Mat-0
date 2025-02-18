@@ -21,8 +21,8 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 <!-- blog starts -->
 - [Confidence and Competence](https://thechels.uk/confidence-and-competence) - 2025-02-18
+- [Drama Triangle](https://thechels.uk/drama-triangle) - 2025-02-18
 - [Dreyfus Model](https://thechels.uk/dreyfus-model) - 2025-02-18
 - [Five step coaching habit](https://thechels.uk/five-step-coaching-habit) - 2025-02-18
 - [Four Fixations of a Brilliant Leader](https://thechels.uk/four-fixations-of-a-brilliant-leader) - 2025-02-18
-- [Four habits that derail listening](https://thechels.uk/four-habits-that-derail-listening) - 2025-02-18
 <!-- blog ends -->
