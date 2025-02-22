@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Bond shopping](https://thechels.uk/bond-shopping) - 2025-02-22
+- [Radical Focus - Achieving Your Most Important Goals with Objectives and Key Results](https://thechels.uk/radical-focus) - 2025-02-22
+- [Tyrannical authoritarian state told to fuck off](https://thechels.uk/tyrannical-authoritarian-state) - 2025-02-22
+- [State of the Castro app 2024](https://thechels.uk/catro-year-end) - 2025-02-21
 - [Confidence and Competence](https://thechels.uk/confidence-and-competence) - 2025-02-18
-- [Drama Triangle](https://thechels.uk/drama-triangle) - 2025-02-18
-- [Dreyfus Model](https://thechels.uk/dreyfus-model) - 2025-02-18
-- [Five step coaching habit](https://thechels.uk/five-step-coaching-habit) - 2025-02-18
-- [Four Fixations of a Brilliant Leader](https://thechels.uk/four-fixations-of-a-brilliant-leader) - 2025-02-18
 <!-- blog ends -->
