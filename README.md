@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [Bond shopping](https://thechels.uk/bond-shopping) - 2025-02-22
-- [Radical Focus - Achieving Your Most Important Goals with Objectives and Key Results](https://thechels.uk/radical-focus) - 2025-02-22
-- [Tyrannical authoritarian state told to fuck off](https://thechels.uk/tyrannical-authoritarian-state) - 2025-02-22
-- [State of the Castro app 2024](https://thechels.uk/catro-year-end) - 2025-02-21
-- [Confidence and Competence](https://thechels.uk/confidence-and-competence) - 2025-02-18
+- [Elegant Puzzle - Systems of Engineering Management](https://thechels.uk/elegant-puzzle) - 2025-02-23
+- [The Lean Startup](https://thechels.uk/lean-startup) - 2025-02-23
+- [The Manager’s Path - A Guide for Tech Leaders Navigating Growth and Change](https://thechels.uk/managers-path) - 2025-02-23
+- [Peopleware - Productive Projects and Teams](https://thechels.uk/peopleware) - 2025-02-23
+- [Personal Kanban - Mapping Work, Navigating Life](https://thechels.uk/personal-kanban) - 2025-02-23
 <!-- blog ends -->
