@@ -23,6 +23,6 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Elegant Puzzle - Systems of Engineering Management](https://thechels.uk/elegant-puzzle) - 2025-02-23
 - [The Lean Startup](https://thechels.uk/lean-startup) - 2025-02-23
 - [The Manager’s Path - A Guide for Tech Leaders Navigating Growth and Change](https://thechels.uk/managers-path) - 2025-02-23
+- [Monthly Mixtape - Feb 2025](https://thechels.uk/music-mixtape-2025-02) - 2025-02-23
 - [Peopleware - Productive Projects and Teams](https://thechels.uk/peopleware) - 2025-02-23
-- [Personal Kanban - Mapping Work, Navigating Life](https://thechels.uk/personal-kanban) - 2025-02-23
 <!-- blog ends -->
