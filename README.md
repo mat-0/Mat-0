@@ -20,9 +20,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
-- [Elegant Puzzle - Systems of Engineering Management](https://thechels.uk/elegant-puzzle) - 2025-02-23
-- [The Lean Startup](https://thechels.uk/lean-startup) - 2025-02-23
-- [The Manager’s Path - A Guide for Tech Leaders Navigating Growth and Change](https://thechels.uk/managers-path) - 2025-02-23
-- [Monthly Mixtape - Feb 2025](https://thechels.uk/music-mixtape-2025-02) - 2025-02-23
-- [Peopleware - Productive Projects and Teams](https://thechels.uk/peopleware) - 2025-02-23
+- [Dora Assessment Template](https://thechels.uk/dora-assessment) - 2025-02-24
+- [Objective Setting and Evidencing Guide](https://thechels.uk/objective-setting-guide) - 2025-02-24
+- [Optimising for Alignment](https://thechels.uk/optimising-for-alignment) - 2025-02-24
+- [Optimising for Learning](https://thechels.uk/optimising-for-learning) - 2025-02-24
+- [Optimising for Openness and Transparency](https://thechels.uk/optimising-for-openness) - 2025-02-24
 <!-- blog ends -->
