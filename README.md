@@ -25,4 +25,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Objective Setting and Evidencing Guide](https://thechels.uk/objective-setting-guide) - 2025-02-24
 - [Optimising for Alignment](https://thechels.uk/optimising-for-alignment) - 2025-02-24
 - [Optimising for Learning](https://thechels.uk/optimising-for-learning) - 2025-02-24
+- [Optimising for Openness and Transparency](https://thechels.uk/optimising-for-openness) - 2025-02-24
+- [Optimising for Speed and Quality](https://thechels.uk/optimising-for-speed-and-quality) - 2025-02-24
+- [Optimising for Teams](https://thechels.uk/optimising-for-teams) - 2025-02-24
 <!-- blog ends -->
