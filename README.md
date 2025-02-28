@@ -21,11 +21,11 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 <!-- blog starts -->
 - [Questions for the End of a one-to-one](https://thechels.uk/questions-for-the-end-of-a-one-to-one) - 2025-02-28
+- [Monthly Mixtape - March 2025](https://thechels.uk/mixtape-music-03-2025) - 2025-02-28
 - [Apple Shareholders Resoundingly Reject Proposal to Ditch Inclusion and Diversity Policies](https://thechels.uk/apple-shareholders-resoundingly-reject-proposal-to-ditch-inclusion-and-diversity-policies) - 2025-02-27
 - [Dora Assessment Template](https://thechels.uk/dora-assessment) - 2025-02-24
 - [Objective Setting and Evidencing Guide](https://thechels.uk/objective-setting-guide) - 2025-02-24
 - [Optimising for Alignment](https://thechels.uk/optimising-for-alignment) - 2025-02-24
 - [Optimising for Learning](https://thechels.uk/optimising-for-learning) - 2025-02-24
 - [Optimising for Openness and Transparency](https://thechels.uk/optimising-for-openness) - 2025-02-24
-- [Optimising for Speed and Quality](https://thechels.uk/optimising-for-speed-and-quality) - 2025-02-24
 <!-- blog ends -->
