@@ -20,12 +20,12 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Apple Challenges UK’s Demand for iCloud Back Door](https://thechels.uk/apple-challenges-uk's-demand-for-icloud-back-door) - 2025-03-07
+- [Apple Is Delaying the More Personalized Siri Apple Intelligence Features](https://thechels.uk/apple-is-delaying-the-more-personalized-siri-apple-intelligence-features) - 2025-03-07
 - [Deleting 18F](https://thechels.uk/deleting-18f) - 2025-03-03
 - [Questions for the End of a one-to-one](https://thechels.uk/questions-for-the-end-of-a-one-to-one) - 2025-02-28
 - [Monthly Mixtape - March 2025](https://thechels.uk/mixtape-music-03-2025) - 2025-02-28
 - [Apple Shareholders Resoundingly Reject Proposal to Ditch Inclusion and Diversity Policies](https://thechels.uk/apple-shareholders-resoundingly-reject-proposal-to-ditch-inclusion-and-diversity-policies) - 2025-02-27
 - [Dora Assessment Template](https://thechels.uk/dora-assessment) - 2025-02-24
 - [Objective Setting and Evidencing Guide](https://thechels.uk/objective-setting-guide) - 2025-02-24
-- [Optimising for Alignment](https://thechels.uk/optimising-for-alignment) - 2025-02-24
-- [Optimising for Learning](https://thechels.uk/optimising-for-learning) - 2025-02-24
 <!-- blog ends -->
