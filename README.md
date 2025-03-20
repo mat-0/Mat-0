@@ -20,6 +20,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Boys need role models](https://thechels.uk/boys-need-role-models) - 2025-03-19
 - [Do One Thing](https://thechels.uk/do-one-thing) - 2025-03-18
 - [In the way](https://thechels.uk/in-the-way) - 2025-03-18
 - [How I manage my todos as a CEO](https://thechels.uk/how-i-manage-my-todos-as-a-ceo) - 2025-03-16
@@ -27,5 +28,4 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Pitching for equality](https://thechels.uk/pitching-for-equality) - 2025-03-16
 - [Daily RSS Feed](https://thechels.uk/daily-rss-feed) - 2025-03-15
 - [Apple Challenges UK’s Demand for iCloud Back Door](https://thechels.uk/apple-challenges-uk's-demand-for-icloud-back-door) - 2025-03-07
-- [Apple Is Delaying the More Personalized Siri Apple Intelligence Features](https://thechels.uk/apple-is-delaying-the-more-personalized-siri-apple-intelligence-features) - 2025-03-07
 <!-- blog ends -->
