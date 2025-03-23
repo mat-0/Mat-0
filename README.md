@@ -20,12 +20,12 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Football Narratives](https://thechels.uk/football-narratives) - 2025-03-23
+- [Rule One](https://thechels.uk/rule-number-one) - 2025-03-23
 - [Boys need role models](https://thechels.uk/boys-need-role-models) - 2025-03-19
 - [Do One Thing](https://thechels.uk/do-one-thing) - 2025-03-18
 - [In the way](https://thechels.uk/in-the-way) - 2025-03-18
 - [How I manage my todos as a CEO](https://thechels.uk/how-i-manage-my-todos-as-a-ceo) - 2025-03-16
 - [In Praise of Normal Engineers](https://thechels.uk/in-praise-of-normal-engineers) - 2025-03-16
 - [Pitching for equality](https://thechels.uk/pitching-for-equality) - 2025-03-16
-- [Daily RSS Feed](https://thechels.uk/daily-rss-feed) - 2025-03-15
-- [Apple Challenges UK’s Demand for iCloud Back Door](https://thechels.uk/apple-challenges-uk's-demand-for-icloud-back-door) - 2025-03-07
 <!-- blog ends -->
