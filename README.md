@@ -20,6 +20,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Software Engineering Problems](https://thechels.uk/software-engineering-problems) - 2025-03-24
 - [Football Narratives](https://thechels.uk/football-narratives) - 2025-03-23
 - [Rule One](https://thechels.uk/rule-number-one) - 2025-03-23
 - [Boys need role models](https://thechels.uk/boys-need-role-models) - 2025-03-19
@@ -27,5 +28,4 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [In the way](https://thechels.uk/in-the-way) - 2025-03-18
 - [How I manage my todos as a CEO](https://thechels.uk/how-i-manage-my-todos-as-a-ceo) - 2025-03-16
 - [In Praise of Normal Engineers](https://thechels.uk/in-praise-of-normal-engineers) - 2025-03-16
-- [Pitching for equality](https://thechels.uk/pitching-for-equality) - 2025-03-16
 <!-- blog ends -->
