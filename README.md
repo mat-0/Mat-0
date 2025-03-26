@@ -20,12 +20,12 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 <!-- blog starts -->
+- [Add Styled Alerts To Github Markdown Documents](https://thechels.uk/add-styled-alerts-to-github-markdown-documents) - 2025-03-26
+- [Check Your Public IP Address](https://thechels.uk/check-your-public-ip-address) - 2025-03-26
+- [Great piece from Chase McCoy](https://thechels.uk/great-piece-from-chase-mccoy) - 2025-03-26
+- [SignalGate Is Bad But OPSEC Is Not Even the Worst Part Of It](https://thechels.uk/signalgate-is-bad-but-opsec-is-not-even-the-worst-part-of-it) - 2025-03-26
+- [Trigger A Workflow Via An API Call](https://thechels.uk/trigger-a-workflow-via-an-api-call) - 2025-03-26
+- [Zettelkasten](https://thechels.uk/zettelkasten) - 2025-03-26
 - [Software Engineering Problems](https://thechels.uk/software-engineering-problems) - 2025-03-24
 - [Football Narratives](https://thechels.uk/football-narratives) - 2025-03-23
-- [Rule One](https://thechels.uk/rule-number-one) - 2025-03-23
-- [Boys need role models](https://thechels.uk/boys-need-role-models) - 2025-03-19
-- [Do One Thing](https://thechels.uk/do-one-thing) - 2025-03-18
-- [In the way](https://thechels.uk/in-the-way) - 2025-03-18
-- [How I manage my todos as a CEO](https://thechels.uk/how-i-manage-my-todos-as-a-ceo) - 2025-03-16
-- [In Praise of Normal Engineers](https://thechels.uk/in-praise-of-normal-engineers) - 2025-03-16
 <!-- blog ends -->
