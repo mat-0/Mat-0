@@ -19,6 +19,9 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 
 ## Latest posts
 
+> [!TIP]
+> The posts get updated automatically via an action.
+
 <!-- blog starts -->
 - [Add Styled Alerts To Github Markdown Documents](https://thechels.uk/add-styled-alerts-to-github-markdown-documents) - 2025-03-26
 - [Check Your Public IP Address](https://thechels.uk/check-your-public-ip-address) - 2025-03-26
@@ -29,3 +32,4 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Software Engineering Problems](https://thechels.uk/software-engineering-problems) - 2025-03-24
 - [Football Narratives](https://thechels.uk/football-narratives) - 2025-03-23
 <!-- blog ends -->
+
