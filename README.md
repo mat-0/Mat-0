@@ -23,7 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
-- [Add Styled Alerts To Github Markdown Documents](https://thechels.uk/add-styled-alerts-to-github-markdown-documents) - 2025-03-26
+- [Add Styled Alerts To GitHub Markdown Documents](https://thechels.uk/add-styled-alerts-to-github-markdown-documents) - 2025-03-26
 - [Check Your Public IP Address](https://thechels.uk/check-your-public-ip-address) - 2025-03-26
 - [Great piece from Chase McCoy](https://thechels.uk/great-piece-from-chase-mccoy) - 2025-03-26
 - [SignalGate Is Bad But OPSEC Is Not Even the Worst Part Of It](https://thechels.uk/signalgate-is-bad-but-opsec-is-not-even-the-worst-part-of-it) - 2025-03-26
