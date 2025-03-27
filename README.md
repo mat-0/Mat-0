@@ -20,7 +20,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 ## Latest posts
 
 > [!TIP]
-> The posts get updated automatically via an action.
+> Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
 - [Add Styled Alerts To Github Markdown Documents](https://thechels.uk/add-styled-alerts-to-github-markdown-documents) - 2025-03-26
