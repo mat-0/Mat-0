@@ -23,6 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Missing Vowels](https://thechels.uk/missing-vowels) - 2025-03-28
 - [Add Styled Alerts To GitHub Markdown Documents](https://thechels.uk/add-styled-alerts-to-github-markdown-documents) - 2025-03-26
 - [Check Your Public IP Address](https://thechels.uk/check-your-public-ip-address) - 2025-03-26
 - [Great piece from Chase McCoy](https://thechels.uk/great-piece-from-chase-mccoy) - 2025-03-26
@@ -30,6 +31,5 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Trigger A Workflow Via An API Call](https://thechels.uk/trigger-a-workflow-via-an-api-call) - 2025-03-26
 - [Zettelkasten](https://thechels.uk/zettelkasten) - 2025-03-26
 - [Software Engineering Problems](https://thechels.uk/software-engineering-problems) - 2025-03-24
-- [Football Narratives](https://thechels.uk/football-narratives) - 2025-03-23
 <!-- blog ends -->
 
