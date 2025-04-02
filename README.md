@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Human sorting improved](https://thechels.uk/human-sorting-improved) - 2025-04-02
+- [Is Raycast still European-owned](https://thechels.uk/is-raycast-still-european-owned) - 2025-04-02
 - [Monthly Mixtape - April 2025](https://thechels.uk/mixtape-music-04-2025) - 2025-04-01
 - [A plea for pragmatic ambition](https://thechels.uk/a-plea-for-pragmatic-ambition) - 2025-03-29
 - [How to report a security issue in an open source project](https://thechels.uk/how-to-report-a-security-issue-in-an-open-source-project) - 2025-03-29
 - [Incomplete JSON Pretty Printer](https://thechels.uk/incomplete-json-pretty-printer) - 2025-03-29
 - [Missing Vowels](https://thechels.uk/missing-vowels) - 2025-03-28
 - [Add Styled Alerts To GitHub Markdown Documents](https://thechels.uk/add-styled-alerts-to-github-markdown-documents) - 2025-03-26
-- [Check Your Public IP Address](https://thechels.uk/check-your-public-ip-address) - 2025-03-26
-- [Great piece from Chase McCoy](https://thechels.uk/great-piece-from-chase-mccoy) - 2025-03-26
 <!-- blog ends -->
 
