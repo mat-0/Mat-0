@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
-- [Reframing your perception of what a one-on-one can accomplish](https://thechels.uk/reframing-your-perception-of-what-a-one-on-one-can-accomplish) - 2025-04-03
-- [Using GitHub CoPilot](https://thechels.uk/using-github-copilot) - 2025-04-03
-- [Human sorting improved](https://thechels.uk/human-sorting-improved) - 2025-04-02
-- [Is Raycast still European-owned](https://thechels.uk/is-raycast-still-european-owned) - 2025-04-02
-- [Monthly Mixtape - April 2025](https://thechels.uk/mixtape-music-04-2025) - 2025-04-01
-- [A plea for pragmatic ambition](https://thechels.uk/a-plea-for-pragmatic-ambition) - 2025-03-29
-- [How to report a security issue in an open source project](https://thechels.uk/how-to-report-a-security-issue-in-an-open-source-project) - 2025-03-29
-- [Incomplete JSON Pretty Printer](https://thechels.uk/incomplete-json-pretty-printer) - 2025-03-29
+- [Grit by Angela Duckworth](https://thechels.uk/grit-by-angela-duckworth) - 2025-04-04
+- [How I split stories](https://thechels.uk/how-i-split-stories) - 2025-04-04
+- [Meditations by Marcus Aurelius](https://thechels.uk/meditations-by-marcus-aurelius) - 2025-04-04
+- [Mob Programming Patterns](https://thechels.uk/mob-programming-patterns) - 2025-04-04
+- [Plant the seed](https://thechels.uk/plant-the-seed) - 2025-04-04
+- [Start with Why by Simon Sinek](https://thechels.uk/start-with-why-by-simon-sinek) - 2025-04-04
+- [The Richest Man in Babylon by George S. Clason](https://thechels.uk/the-richest-man-in-babylon-by-george-s.-clason) - 2025-04-04
+- [Why breaking down work is important](https://thechels.uk/why-breaking-down-work-is-important) - 2025-04-04
 <!-- blog ends -->
 
