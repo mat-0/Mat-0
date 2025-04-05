@@ -28,8 +28,8 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [57 startup lessons](https://thechels.uk/57-startup-lessons) - 2025-04-05
 - [8 Essential Interview Questions CEOs Swear By](https://thechels.uk/8-essential-interview-questions-ceos-swear-by) - 2025-04-05
 - [8 Essential Qualities That Define Great Leadership](https://thechels.uk/8-essential-qualities-that-define-great-leadership) - 2025-04-05
+- [A Guide to the Good Life - The Ancient Art of Stoic Joy](https://thechels.uk/a-guide-to-the-good-life) - 2025-04-05
 - [Amazon Leadership principles](https://thechels.uk/amazon-leadership-principles) - 2025-04-05
 - [Ask for Advice Not Permission](https://thechels.uk/ask-for-advice-not-permission) - 2025-04-05
-- [Grit by Angela Duckworth](https://thechels.uk/grit-by-angela-duckworth) - 2025-04-04
 <!-- blog ends -->
 
