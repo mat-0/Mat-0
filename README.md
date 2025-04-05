@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [44 engineering management lessons](https://thechels.uk/44-engineering-management-lessons) - 2025-04-05
+- [50 ideas that changed my life - By David Perell](https://thechels.uk/50-ideas-that-changed-my-life-by-david-perell) - 2025-04-05
+- [57 startup lessons](https://thechels.uk/57-startup-lessons) - 2025-04-05
+- [8 Essential Interview Questions CEOs Swear By](https://thechels.uk/8-essential-interview-questions-ceos-swear-by) - 2025-04-05
+- [8 Essential Qualities That Define Great Leadership](https://thechels.uk/8-essential-qualities-that-define-great-leadership) - 2025-04-05
+- [Amazon Leadership principles](https://thechels.uk/amazon-leadership-principles) - 2025-04-05
+- [Ask for Advice Not Permission](https://thechels.uk/ask-for-advice-not-permission) - 2025-04-05
 - [Grit by Angela Duckworth](https://thechels.uk/grit-by-angela-duckworth) - 2025-04-04
-- [How I split stories](https://thechels.uk/how-i-split-stories) - 2025-04-04
-- [Meditations by Marcus Aurelius](https://thechels.uk/meditations-by-marcus-aurelius) - 2025-04-04
-- [Mob Programming Patterns](https://thechels.uk/mob-programming-patterns) - 2025-04-04
-- [Plant the seed](https://thechels.uk/plant-the-seed) - 2025-04-04
-- [Start with Why by Simon Sinek](https://thechels.uk/start-with-why-by-simon-sinek) - 2025-04-04
-- [The Richest Man in Babylon by George S. Clason](https://thechels.uk/the-richest-man-in-babylon-by-george-s.-clason) - 2025-04-04
-- [Why breaking down work is important](https://thechels.uk/why-breaking-down-work-is-important) - 2025-04-04
 <!-- blog ends -->
 
