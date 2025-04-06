@@ -23,6 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Lessons learned by Emmett Shear](https://thechels.uk/lessons-learned-by-emmett-shear) - 2025-04-06
 - [44 engineering management lessons](https://thechels.uk/44-engineering-management-lessons) - 2025-04-05
 - [50 ideas that changed my life - By David Perell](https://thechels.uk/50-ideas-that-changed-my-life-by-david-perell) - 2025-04-05
 - [57 startup lessons](https://thechels.uk/57-startup-lessons) - 2025-04-05
@@ -30,6 +31,5 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [8 Essential Qualities That Define Great Leadership](https://thechels.uk/8-essential-qualities-that-define-great-leadership) - 2025-04-05
 - [A Guide to the Good Life - The Ancient Art of Stoic Joy](https://thechels.uk/a-guide-to-the-good-life) - 2025-04-05
 - [Amazon Leadership principles](https://thechels.uk/amazon-leadership-principles) - 2025-04-05
-- [Ask for Advice Not Permission](https://thechels.uk/ask-for-advice-not-permission) - 2025-04-05
 <!-- blog ends -->
 
