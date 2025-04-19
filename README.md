@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [How to Win an Argument With a Toddler](https://thechels.uk/how-to-win-an-argument-with-a-toddler) - 2025-04-19
+- [Seven phrases when sharing feedback that makes it easier](https://thechels.uk/seven-phrases-when-sharing-feedback-that-makes-it-easier) - 2025-04-19
+- [Lyrical juxtaposition](https://thechels.uk/lyrical-juxtaposition) - 2025-04-18
+- [Slobsquatting](https://thechels.uk/slobsquatting) - 2025-04-18
 - [AI crawler wars threaten the web](https://thechels.uk/ai-crawler-wars-threaten-the-web) - 2025-04-08
 - [And no, a robots txt file doesn’t help](https://thechels.uk/and-no-a-robots-txt-file-doesn-t-help) - 2025-04-08
 - [Micro-Scrum](https://thechels.uk/micro-scrum) - 2025-04-08
 - [Lessons learned by Emmett Shear](https://thechels.uk/lessons-learned-by-emmett-shear) - 2025-04-06
-- [44 engineering management lessons](https://thechels.uk/44-engineering-management-lessons) - 2025-04-05
-- [50 ideas that changed my life - By David Perell](https://thechels.uk/50-ideas-that-changed-my-life-by-david-perell) - 2025-04-05
-- [57 startup lessons](https://thechels.uk/57-startup-lessons) - 2025-04-05
-- [8 Essential Interview Questions CEOs Swear By](https://thechels.uk/8-essential-interview-questions-ceos-swear-by) - 2025-04-05
 <!-- blog ends -->
 
