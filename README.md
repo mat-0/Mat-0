@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Giving software away for free](https://thechels.uk/giving-software-away-for-free) - 2025-05-01
+- [More people bad at math and money](https://thechels.uk/more-people-bad-at-math-and-money) - 2025-05-01
+- [Not all people are bad at money](https://thechels.uk/not-all-people-are-bad-at-money) - 2025-05-01
+- [Redis is Open Source again](https://thechels.uk/redis-is-open-source-again) - 2025-05-01
 - [People are not good at maths](https://thechels.uk/people-maths-bad) - 2025-04-28
 - [RSS Feed Generation](https://thechels.uk/rss-feed-generation) - 2025-04-28
 - [Default styles for h1 elements are changing](https://thechels.uk/default-styles-for-h1-elements-are-changing) - 2025-04-19
 - [How to Win an Argument With a Toddler](https://thechels.uk/how-to-win-an-argument-with-a-toddler) - 2025-04-19
-- [Seven phrases when sharing feedback that makes it easier](https://thechels.uk/seven-phrases-when-sharing-feedback-that-makes-it-easier) - 2025-04-19
-- [Lyrical juxtaposition](https://thechels.uk/lyrical-juxtaposition) - 2025-04-18
-- [Slopsquatting](https://thechels.uk/slopsquatting) - 2025-04-18
-- [AI crawler wars threaten the web](https://thechels.uk/ai-crawler-wars-threaten-the-web) - 2025-04-08
 <!-- blog ends -->
 
