@@ -23,6 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Monthly Mixtape - May 2025](https://thechels.uk/mixtape-music-05-2025) - 2025-05-07
 - [Attitude is a choice](https://thechels.uk/attitude-is-a-choice) - 2025-05-04
 - [Change is a constant](https://thechels.uk/change-is-a-constant) - 2025-05-04
 - [Firestarter](https://thechels.uk/firestarter) - 2025-05-04
@@ -30,6 +31,5 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Next game](https://thechels.uk/next-game) - 2025-05-04
 - [Giving software away for free](https://thechels.uk/giving-software-away-for-free) - 2025-05-01
 - [More people bad at math and money](https://thechels.uk/more-people-bad-at-math-and-money) - 2025-05-01
-- [Not all people are bad at money](https://thechels.uk/not-all-people-are-bad-at-money) - 2025-05-01
 <!-- blog ends -->
 
