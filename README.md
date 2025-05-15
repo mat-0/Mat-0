@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Developers as Suppliers](https://thechels.uk/developers-as-suppliers) - 2025-05-15
+- [Quoting Bryan Finster](https://thechels.uk/quoting-bryan-finster) - 2025-05-15
+- [What I’ve learned about writing AI apps so far](https://thechels.uk/what-i've-learned-about-writing-ai-apps-so-far) - 2025-05-15
+- [Why breaking down work is important](https://thechels.uk/why-breaking-down-work-is-important) - 2025-05-15
+- [Will YouTube kill the podcast industry?](https://thechels.uk/will-youtube-kill-the-podcast-industry) - 2025-05-15
 - [Monthly Mixtape - May 2025](https://thechels.uk/mixtape-music-05-2025) - 2025-05-07
 - [Attitude is a choice](https://thechels.uk/attitude-is-a-choice) - 2025-05-04
 - [Change is a constant](https://thechels.uk/change-is-a-constant) - 2025-05-04
-- [Firestarter](https://thechels.uk/firestarter) - 2025-05-04
-- [5-Day Low Histamine Vegan Meal Plan](https://thechels.uk/low-histamine) - 2025-05-04
-- [Next game](https://thechels.uk/next-game) - 2025-05-04
-- [Giving software away for free](https://thechels.uk/giving-software-away-for-free) - 2025-05-01
-- [More people bad at math and money](https://thechels.uk/more-people-bad-at-math-and-money) - 2025-05-01
 <!-- blog ends -->
 
