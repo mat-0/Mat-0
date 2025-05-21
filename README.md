@@ -25,7 +25,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 <!-- blog starts -->
 - [Is GitHub Ready For Enterprise-Grade SDL](https://thechels.uk/is-github-ready-for-enterprise-grade-sdl) - 2025-05-21
 - [Octopus doubles down on Seccl](https://thechels.uk/octopus-doubles-down-on-seccl) - 2025-05-21
-- [Remarks on AI Neal Stephenson](https://thechels.uk/remarks-on-ai-neal-stephenson) - 2025-05-21
+- [Remarks on AI](https://thechels.uk/remarks-on-ai-neal-stephenson) - 2025-05-21
 - [Developers as Suppliers](https://thechels.uk/developers-as-suppliers) - 2025-05-15
 - [Quoting Bryan Finster](https://thechels.uk/quoting-bryan-finster) - 2025-05-15
 - [What I’ve learned about writing AI apps so far](https://thechels.uk/what-i've-learned-about-writing-ai-apps-so-far) - 2025-05-15
