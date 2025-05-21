@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Is GitHub Ready For Enterprise-Grade SDL](https://thechels.uk/is-github-ready-for-enterprise-grade-sdl) - 2025-05-21
+- [Octopus doubles down on Seccl](https://thechels.uk/octopus-doubles-down-on-seccl) - 2025-05-21
+- [Remarks on AI Neal Stephenson](https://thechels.uk/remarks-on-ai-neal-stephenson) - 2025-05-21
 - [Developers as Suppliers](https://thechels.uk/developers-as-suppliers) - 2025-05-15
 - [Quoting Bryan Finster](https://thechels.uk/quoting-bryan-finster) - 2025-05-15
 - [What I’ve learned about writing AI apps so far](https://thechels.uk/what-i've-learned-about-writing-ai-apps-so-far) - 2025-05-15
 - [Why breaking down work is important](https://thechels.uk/why-breaking-down-work-is-important) - 2025-05-15
 - [Will YouTube kill the podcast industry?](https://thechels.uk/will-youtube-kill-the-podcast-industry) - 2025-05-15
-- [Monthly Mixtape - May 2025](https://thechels.uk/mixtape-music-05-2025) - 2025-05-07
-- [Attitude is a choice](https://thechels.uk/attitude-is-a-choice) - 2025-05-04
-- [Change is a constant](https://thechels.uk/change-is-a-constant) - 2025-05-04
 <!-- blog ends -->
 
