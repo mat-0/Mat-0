@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Quoting Lynn Roberts on LinkedIn](https://thechels.uk/1-Lynn-roberts-post-linkedin) - 2025-06-08
+- [Markdown export in Apple Notes](https://thechels.uk/exclusive-ios-26-to-bring-new-features-for-messages-carplay-and-more-9to5mac) - 2025-06-08
+- [Quoting Brent Simmons on NetNewsWire](https://thechels.uk/inessential-weblog) - 2025-06-08
+- [OTP Delivery via WhatsApp in Microsoft Entra ID](https://thechels.uk/what-s-new-in-microsoft-entra-microsoft-community-hub) - 2025-06-08
 - [Five Things That Have A Bigger Impact Than AI on Productivity](https://thechels.uk/five-things-that-have-a-bigger-impact-than-ai-on-productivity) - 2025-06-02
 - [It is the System Stupid](https://thechels.uk/it-is-the-system-stupid) - 2025-06-02
 - [Sam and Jony introduce io](https://thechels.uk/sam-and-jony-introduce-io) - 2025-06-02
 - [this is fine](https://thechels.uk/this-is-fine) - 2025-06-02
-- [7 Frameworks To Master Decision Making](https://thechels.uk/decision-making-framework) - 2025-05-25
-- [Is GitHub Ready For Enterprise-Grade SDL](https://thechels.uk/is-github-ready-for-enterprise-grade-sdl) - 2025-05-21
-- [Octopus doubles down on Seccl](https://thechels.uk/octopus-doubles-down-on-seccl) - 2025-05-21
-- [Remarks on AI](https://thechels.uk/remarks-on-ai-neal-stephenson) - 2025-05-21
 <!-- blog ends -->
 
