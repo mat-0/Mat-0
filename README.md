@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Five Things That Have A Bigger Impact Than AI on Productivity](https://thechels.uk/five-things-that-have-a-bigger-impact-than-ai-on-productivity) - 2025-06-02
+- [It is the System Stupid](https://thechels.uk/it-is-the-system-stupid) - 2025-06-02
+- [Sam and Jony introduce io](https://thechels.uk/sam-and-jony-introduce-io) - 2025-06-02
+- [this is fine](https://thechels.uk/this-is-fine) - 2025-06-02
 - [7 Frameworks To Master Decision Making](https://thechels.uk/decision-making-framework) - 2025-05-25
 - [Is GitHub Ready For Enterprise-Grade SDL](https://thechels.uk/is-github-ready-for-enterprise-grade-sdl) - 2025-05-21
 - [Octopus doubles down on Seccl](https://thechels.uk/octopus-doubles-down-on-seccl) - 2025-05-21
 - [Remarks on AI](https://thechels.uk/remarks-on-ai-neal-stephenson) - 2025-05-21
-- [Developers as Suppliers](https://thechels.uk/developers-as-suppliers) - 2025-05-15
-- [Quoting Bryan Finster](https://thechels.uk/quoting-bryan-finster) - 2025-05-15
-- [What I’ve learned about writing AI apps so far](https://thechels.uk/what-i've-learned-about-writing-ai-apps-so-far) - 2025-05-15
-- [Why breaking down work is important](https://thechels.uk/why-breaking-down-work-is-important) - 2025-05-15
 <!-- blog ends -->
 
