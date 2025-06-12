@@ -23,6 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Announcing my first iOS app](https://thechels.uk/announcing-my-first-ios-app) - 2025-06-11
 - [Quoting Lynn Roberts on LinkedIn](https://thechels.uk/1-Lynn-roberts-post-linkedin) - 2025-06-08
 - [Markdown export in Apple Notes](https://thechels.uk/exclusive-ios-26-to-bring-new-features-for-messages-carplay-and-more-9to5mac) - 2025-06-08
 - [Text is the new gold.](https://thechels.uk/extract-text-from-pdf-files-with-python-for-use-in-generative-ai-and-rag-solutions-build5nines) - 2025-06-08
@@ -30,6 +31,5 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [It is not your codebase](https://thechels.uk/it-s-not-your-codebase-sean-goedecke) - 2025-06-08
 - [Moving from Notion to Obsidian](https://thechels.uk/moving-from-notion-to-obsidian-daverupert-com) - 2025-06-08
 - [The promise that wasn’t kept](https://thechels.uk/the-promise-that-wasn-t-kept) - 2025-06-08
-- [OTP Delivery via WhatsApp in Microsoft Entra ID](https://thechels.uk/what-s-new-in-microsoft-entra-microsoft-community-hub) - 2025-06-08
 <!-- blog ends -->
 
