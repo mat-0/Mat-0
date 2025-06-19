@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Context Rot from AI](https://thechels.uk/a-quote-from-workaccount2-on-hacker-news) - 2025-06-19
 - [Doing good software engineering first, then AI-assisted coding can help](https://thechels.uk/ai-coding-skill) - 2025-06-19
+- [Coding agents require skilled operators](https://thechels.uk/coding-agents-require-skilled-operators) - 2025-06-19
 - [Announcing Hiyd Extension](https://thechels.uk/hiyd-extension) - 2025-06-19
 - [Monthly Mixtape - June 2025](https://thechels.uk/mixtape-music-06-2025) - 2025-06-19
 - [Ongoing Offers- June 2025](https://thechels.uk/ongoing-offers-june-2025) - 2025-06-19
 - [Hiyd Release version 1.1.0](https://thechels.uk/release-version-110) - 2025-06-16
 - [Announcing my first iOS app](https://thechels.uk/announcing-my-first-ios-app) - 2025-06-11
-- [Quoting Lynn Roberts on LinkedIn](https://thechels.uk/1-Lynn-roberts-post-linkedin) - 2025-06-08
-- [Markdown export in Apple Notes](https://thechels.uk/exclusive-ios-26-to-bring-new-features-for-messages-carplay-and-more-9to5mac) - 2025-06-08
 <!-- blog ends -->
 
