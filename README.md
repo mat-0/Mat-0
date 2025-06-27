@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [GDS say Copilot AI saved workers 26 minutes a day](https://thechels.uk/gds-say-copilot-ai-saved-workers-26-minutes-a-day) - 2025-06-27
+- [New GitHub Copilot limits](https://thechels.uk/new-github-copilot-limits) - 2025-06-27
 - [Build for the Web](https://thechels.uk/build-for-the-web-build-on-the-web-build-with-the-web-css-wizardry) - 2025-06-25
 - [Context Rot from AI](https://thechels.uk/a-quote-from-workaccount2-on-hacker-news) - 2025-06-19
 - [Doing good software engineering first, then AI-assisted coding can help](https://thechels.uk/ai-coding-skill) - 2025-06-19
 - [Coding agents require skilled operators](https://thechels.uk/coding-agents-require-skilled-operators) - 2025-06-19
 - [Announcing Hiyd Extension](https://thechels.uk/hiyd-extension) - 2025-06-19
 - [Monthly Mixtape - June 2025](https://thechels.uk/mixtape-music-06-2025) - 2025-06-19
-- [Ongoing Offers- June 2025](https://thechels.uk/ongoing-offers-june-2025) - 2025-06-19
-- [Hiyd Release version 1.1.0](https://thechels.uk/release-version-110) - 2025-06-16
 <!-- blog ends -->
 
