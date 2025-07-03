@@ -23,6 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [rebranding and design costs](https://thechels.uk/the-not-quite-new-gov-uk-brand-blog-beeps) - 2025-07-02
 - [Context engineering](https://thechels.uk/context-engineering) - 2025-06-29
 - [Continuous AI](https://thechels.uk/continuous-ai) - 2025-06-29
 - [Natural Language Web](https://thechels.uk/natural-language-web) - 2025-06-29
@@ -30,6 +31,5 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Post-Exertional Malaise - The Key Sign of ME/CFS](https://thechels.uk/post-exertional-malaise-the-key-sign-of-mecfs) - 2025-06-29
 - [GDS say Copilot AI saved workers 26 minutes a day](https://thechels.uk/gds-say-copilot-ai-saved-workers-26-minutes-a-day) - 2025-06-27
 - [New GitHub Copilot limits](https://thechels.uk/new-github-copilot-limits) - 2025-06-27
-- [Build for the Web](https://thechels.uk/build-for-the-web-build-on-the-web-build-with-the-web-css-wizardry) - 2025-06-25
 <!-- blog ends -->
 
