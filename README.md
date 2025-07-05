@@ -23,7 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
-- [rebranding and design costs](https://thechels.uk/the-not-quite-new-gov-uk-brand-blog-beeps) - 2025-07-02
+- [Rebranding and design costs](https://thechels.uk/the-not-quite-new-gov-uk-brand-blog-beeps) - 2025-07-02
 - [Context engineering](https://thechels.uk/context-engineering) - 2025-06-29
 - [Continuous AI](https://thechels.uk/continuous-ai) - 2025-06-29
 - [Natural Language Web](https://thechels.uk/natural-language-web) - 2025-06-29
