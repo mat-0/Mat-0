@@ -23,13 +23,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Boost in support for patients with chronic fatigue syndrome or ME](https://thechels.uk/boost-in-support-for-patients-with-chronic-fatigue-syndrome-or-me) - 2025-07-27
+- [GOV UK issues a press release that the Delivery Plan on ME/CFS has been published](https://thechels.uk/gov-uk-issues-presser-on-me-cfs-has-been-published) - 2025-07-27
+- [People - Principles - Process - Product](https://thechels.uk/people-principles-process-product) - 2025-07-27
+- [Tomoz App Launched](https://thechels.uk/tomoz-app-launched) - 2025-07-27
+- [Andy aiming to run Piccalilli full time](https://thechels.uk/we-re-aiming-to-run-piccalilli-full-time) - 2025-07-27
 - [Accessibility Development Digest](https://thechels.uk/accessibility-development-digest) - 2025-07-20
 - [Rebranding and design costs](https://thechels.uk/the-not-quite-new-gov-uk-brand-blog-beeps) - 2025-07-02
 - [Context engineering](https://thechels.uk/context-engineering) - 2025-06-29
-- [Continuous AI](https://thechels.uk/continuous-ai) - 2025-06-29
-- [Natural Language Web](https://thechels.uk/natural-language-web) - 2025-06-29
-- [Patients duped in records-and-payment scam](https://thechels.uk/patients-duped-in-records-and-payment-scam) - 2025-06-29
-- [Post-Exertional Malaise - The Key Sign of ME/CFS](https://thechels.uk/post-exertional-malaise-the-key-sign-of-mecfs) - 2025-06-29
-- [GDS say Copilot AI saved workers 26 minutes a day](https://thechels.uk/gds-say-copilot-ai-saved-workers-26-minutes-a-day) - 2025-06-27
 <!-- blog ends -->
 
