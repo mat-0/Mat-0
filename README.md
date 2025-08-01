@@ -23,13 +23,6 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
-- [Dia Browser Takes](https://thechels.uk/dia-browser-takes) - 2025-07-29
-- [Phone battery issues](https://thechels.uk/phone-battery-issues) - 2025-07-29
-- [Boost in support for patients with chronic fatigue syndrome or ME](https://thechels.uk/boost-in-support-for-patients-with-chronic-fatigue-syndrome-or-me) - 2025-07-27
-- [GOV UK issues a press release that the Delivery Plan on ME/CFS has been published](https://thechels.uk/gov-uk-issues-presser-on-me-cfs-has-been-published) - 2025-07-27
-- [People - Principles - Process - Product](https://thechels.uk/people-principles-process-product) - 2025-07-27
-- [Tomoz App Launched](https://thechels.uk/tomoz-app-launched) - 2025-07-27
-- [Andy aiming to run Piccalilli full time](https://thechels.uk/we-re-aiming-to-run-piccalilli-full-time) - 2025-07-27
-- [Accessibility Development Digest](https://thechels.uk/accessibility-development-digest) - 2025-07-20
+
 <!-- blog ends -->
 
