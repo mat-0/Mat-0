@@ -23,6 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Monthly Mixtape - Oct 2025](https://thechels.uk/monthly-mixtape-oct-2025) - 2025-10-26
 - [Anti inflammatory medication in the treatment](https://thechels.uk/anti-inflammatory-medication-in-the-treatment) - 2025-10-24
 - [Key Offers for October 2025](https://thechels.uk/key-offers-for-october-2025) - 2025-10-24
 - [“What to Do When Before You Die”](https://thechels.uk/what-to-do-when-you-die) - 2025-10-21
@@ -30,6 +31,5 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [Countering Espionage and Foreign Interference](https://thechels.uk/countering-espionage-and-foreign-interference) - 2025-10-14
 - [Private Investigator - Common Mistakes That Helps Us Crack Cases](https://thechels.uk/private-investigator-common-mistakes-that-helps-us-crack-cases) - 2025-10-14
 - [Diagnosis](https://thechels.uk/diagnosis) - 2025-10-13
-- [Hacker Laws](https://thechels.uk/hacker-laws) - 2025-10-13
 <!-- blog ends -->
 
