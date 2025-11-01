@@ -23,6 +23,7 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [The PSF has withdrawn a 1.5 million proposal to US gov grant](https://thechels.uk/the-psf-has-withdrawn-a-1.5-million-proposal-to-us-gov-grant) - 2025-10-28
 - [Monthly Mixtape - Oct 2025](https://thechels.uk/monthly-mixtape-oct-2025) - 2025-10-26
 - [Anti inflammatory medication in the treatment](https://thechels.uk/anti-inflammatory-medication-in-the-treatment) - 2025-10-24
 - [Key Offers for October 2025](https://thechels.uk/key-offers-for-october-2025) - 2025-10-24
@@ -30,6 +31,5 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 - [AWS CEO on AI replacing junior staff](https://thechels.uk/aws-ceo-on-ai-replacing-junior-staff) - 2025-10-19
 - [Countering Espionage and Foreign Interference](https://thechels.uk/countering-espionage-and-foreign-interference) - 2025-10-14
 - [Private Investigator - Common Mistakes That Helps Us Crack Cases](https://thechels.uk/private-investigator-common-mistakes-that-helps-us-crack-cases) - 2025-10-14
-- [Diagnosis](https://thechels.uk/diagnosis) - 2025-10-13
 <!-- blog ends -->
 
