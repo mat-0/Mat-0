@@ -1,8 +1,6 @@
-# Hi, I'm Mat
+# Hello, hello.
 
 ![Daily Build](https://github.com/mat-0/mat-0/workflows/Daily%20Build/badge.svg)
-
-![banner photo of Mat running in London](https://raw.githubusercontent.com/mat-0/mat-0/master/images/gh-header-image-cropped.jpg)
 
 <details><summary><code>Repository naming convention</code></summary>
   
