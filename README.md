@@ -21,13 +21,13 @@ Repositories, where possible, are lowercase with underscores and follow the nami
 > Theses posts get updated automatically via an action.
 
 <!-- blog starts -->
+- [Aphantasics - Those Who Can’t See Mental Images](https://thechels.uk/aphantasics-those-who-can-t-see-mental-images) - 2025-11-30
+- [Cash ISA cut – devil in the detail](https://thechels.uk/cash-isa-cut-devil-in-the-detail) - 2025-11-30
+- [Good engineering management is a fad](https://thechels.uk/good-engineering-management-is-a-fad) - 2025-11-30
+- [Keeping it simple](https://thechels.uk/keeping-it-simple) - 2025-11-30
 - [Cloudflare outage on November 18 2025](https://thechels.uk/cloudflare-outage-on-november-18-2025) - 2025-11-20
 - [Monotype font licencing shake-down](https://thechels.uk/monotype-font-licencing-shake-down) - 2025-11-20
 - [The PSF has withdrawn a 1.5 million proposal to US gov grant](https://thechels.uk/the-psf-has-withdrawn-a-1.5-million-proposal-to-us-gov-grant) - 2025-10-28
 - [Monthly Mixtape - Oct 2025](https://thechels.uk/monthly-mixtape-oct-2025) - 2025-10-26
-- [Anti inflammatory medication in the treatment](https://thechels.uk/anti-inflammatory-medication-in-the-treatment) - 2025-10-24
-- [Key Offers for October 2025](https://thechels.uk/key-offers-for-october-2025) - 2025-10-24
-- [“What to Do When Before You Die”](https://thechels.uk/what-to-do-when-you-die) - 2025-10-21
-- [AWS CEO on AI replacing junior staff](https://thechels.uk/aws-ceo-on-ai-replacing-junior-staff) - 2025-10-19
 <!-- blog ends -->
 
