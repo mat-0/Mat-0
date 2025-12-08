@@ -1,3 +1,2 @@
 feedparser
-tweepy
 pylint
