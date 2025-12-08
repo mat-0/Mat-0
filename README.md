@@ -1,7 +1,6 @@
-# Hello, hello.
+# Hello, hello
 
 ![Daily Build](https://github.com/mat-0/mat-0/workflows/Daily%20Build/badge.svg)
-
 
 ## Latest posts
 
@@ -11,4 +10,3 @@
 <!-- blog starts -->
 
 <!-- blog ends -->
-
